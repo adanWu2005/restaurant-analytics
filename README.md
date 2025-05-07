@@ -1,10 +1,10 @@
-# DoorDash Data Analytics Project
+# Restaurant Data Analytics Project
 
-A modern data engineering project for analyzing DoorDash food delivery data, built with Python, Mage AI, Google Cloud Platform, BigQuery, and Looker Studio.
+A modern data engineering project for analyzing Restaurant food delivery data, built with Python, Mage AI, Google Cloud Platform, BigQuery, and Looker Studio.
 
 ## Project Overview
 
-This project creates an end-to-end data pipeline for analyzing food delivery data, simulating a real-world DoorDash analytics system. It follows the complete data engineering workflow:
+This project creates an end-to-end data pipeline for analyzing food delivery data, simulating a real-world restaurant analytics system. It follows the complete data engineering workflow:
 
 1. **Data Generation** - Creating realistic food delivery datasets
 2. **ETL Pipeline** - Extracting, transforming, and loading data
@@ -20,33 +20,6 @@ This project creates an end-to-end data pipeline for analyzing food delivery dat
 - **Mage AI** - For data pipeline orchestration
 - **BigQuery** - For data warehousing and analysis
 - **Looker Studio** - For data visualization
-
-## Project Structure
-doordash-analytics/
-│
-├── data_generator.py           # Script to generate sample data
-├── database_setup.py           # Script to create SQLite database
-├── etl_pipeline.py             # ETL process implementation
-├── sql_analysis.py             # SQL queries for analysis
-├── data_visualization.py       # Data visualization script
-├── streamlit_dashboard.py      # Dashboard implementation
-├── insights.py                 # Business insights generator
-├── run_project.py              # Main script to run the pipeline
-│
-├── data/                       # Generated data directory
-│   ├── restaurants.csv
-│   ├── menu_items.csv
-│   ├── customers.csv
-│   ├── drivers.csv
-│   ├── orders.csv
-│   ├── order_items.csv
-│   └── deliveries.csv
-│
-├── sql/                        # SQL queries
-│   ├── analytics_query.sql     # Main analytics table creation
-│   └── dashboard_queries.sql   # Queries for dashboard
-│
-└── visualizations/             # Visualization outputs
 
 ## Data Model
 
@@ -74,8 +47,8 @@ The project uses a star schema with the following tables:
 ### Local Setup
 
 1. **Clone the repository**
-git clone https://github.com/yourusername/doordash-analytics.git
-cd doordash-analytics
+git clone https://github.com/yourusername/Restaurant-analytics.git
+cd Restaurant-analytics
 
 2. **Create a virtual environment**
 python -m venv venv
@@ -110,15 +83,15 @@ python run_project.py
 1. **Set up GCP environment**
 
 Create a GCP project
-gcloud projects create doordash-analytics-project
-gcloud config set project doordash-analytics-project
+gcloud projects create Restaurant-analytics-project
+gcloud config set project Restaurant-analytics-project
 Enable required APIs
 gcloud services enable compute.googleapis.com storage.googleapis.com bigquery.googleapis.com
 Create a Cloud Storage bucket
-gsutil mb -l us-central1 gs://doordash-analytics-project/
+gsutil mb -l us-central1 gs://Restaurant-analytics-project/
 
 2. **Upload data to Cloud Storage**
-gsutil -m cp data/*.csv gs://doordash-analytics-project/
+gsutil -m cp data/*.csv gs://Restaurant-analytics-project/
 
 3. **Set up Compute Engine and Mage AI**
 Create VM
@@ -133,11 +106,11 @@ gcloud compute ssh mage-data-pipeline
 4. **Install Mage AI and set up the pipeline**
 sudo apt-get update
 sudo pip3 install mage-ai
-mage start doordash_pipeline
+mage start Restaurant_pipeline
 
 5. **Create BigQuery dataset and run the analytics query**
 Create dataset
-bq mk doordash_data
+bq mk Restaurant_data
 Run analytics query
 bq query --use_legacy_sql=false < sql/analytics_query.sql
 

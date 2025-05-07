@@ -1,0 +1,201 @@
+customer_id,name,email,phone,address,area,latitude,longitude,registration_date,has_dashpass,segment
+c390382a-dcc6-4b43-8e0e-a0758024fef6,Dwayne Campbell,ojones@example.com,+1-693-661-8324x2102,"1746 Mason Park, Uptown",Uptown,40.517325,-73.690412,2022-05-19 15:31:26,False,Regular
+a524d20d-1f02-409e-af50-285b8544d5c7,Kyle Preston,cassandra01@example.org,+1-899-904-9027x87429,"75655 Mia Isle, Downtown",Downtown,40.639888,-73.931382,2022-02-13 22:15:40,False,Regular
+ad814150-d105-40cf-ae82-0f5e6c160c49,Jon Bates,jcervantes@example.org,215.545.1680x876,"597 Wolf Ford, Downtown",Downtown,40.994702,-73.609042,2023-01-06 21:34:50,False,VIP
+1cbb9604-5997-4ea0-96b6-ca36454e8b1f,Carlos Roberts,omartinez@example.net,324.980.8613,"27484 Davenport Mountains, East Side",East Side,40.660802,-73.864782,2021-02-23 16:38:14,True,Frequent
+06db8897-97e6-4718-9491-2431726ed80c,Juan Reyes,michellehill@example.com,784-804-4997x27875,"5339 Hall Trail, Midtown",Midtown,40.529296,-73.504234,2023-12-21 17:49:37,False,VIP
+2ac50d10-5b0c-4d24-a716-f62983328236,Evan Kennedy,qhughes@example.net,(370)928-9517,"26217 Morgan Square, Downtown",Downtown,40.623929,-73.879424,2023-12-29 07:48:14,False,VIP
+517b874f-052e-4381-b6a1-a2b215bf2265,Bobby Murphy,ofinley@example.net,001-478-609-1343x16117,"05045 Jordan Gardens, West Side",West Side,40.677402,-73.580389,2021-12-22 11:15:37,True,Frequent
+9a48f22c-b897-43bf-8eee-a8b949a362b4,Kylie Sparks,gregorylynch@example.com,+1-637-492-3747x407,"75946 Bryant Hollow, Midtown",Midtown,40.95699,-73.985897,2022-12-22 10:36:12,False,Frequent
+63b58a56-fed5-437a-b749-40647240752c,James Webb,patrickhoward@example.com,001-740-564-0909x743,"394 Courtney Road, West Side",West Side,40.771062,-73.912222,2021-03-19 08:03:14,False,New
+f72368bc-318d-498f-8ef0-93466f940369,Ellen Alexander,jessica14@example.com,001-662-732-8588x4247,"71236 Davis Locks, West Side",West Side,40.500342,-73.541052,2022-02-17 10:21:45,True,Frequent
+67fe33ca-9468-4b71-b935-6cfa141ddcaf,Joshua Gibson,brenda51@example.net,970.698.5931,"612 Sophia Hollow, Midtown",Midtown,40.529778,-73.926144,2021-10-18 09:54:33,False,VIP
+af433683-c100-44cd-9067-09c1c946bb43,Audrey Young DDS,qchavez@example.net,001-786-592-6179x640,"7351 Stephens Rue, Midtown",Midtown,40.852269,-73.66893,2021-07-26 16:19:20,True,Occasional
+68a85fae-9620-4849-afec-115ba67ad75d,James Lopez,rushmadison@example.org,+1-539-500-5329x31839,"2904 Vanessa Plains, West Side",West Side,40.895921,-73.519669,2022-10-12 11:45:35,False,VIP
+62e405eb-293f-4bec-bf26-e3f67be2b223,Christopher Guerrero,andersonmichael@example.org,001-350-324-0268,"7589 Shannon Forges, Midtown",Midtown,40.611619,-73.705525,2021-12-26 18:19:46,False,New
+dacec5e3-8b63-4938-8a01-bfea705537dc,Amanda Logan,stephen00@example.com,(761)877-1159x2124,"847 Garcia Squares, Downtown",Downtown,40.974394,-73.525651,2023-03-13 07:11:38,True,Frequent
+7b87d006-eb56-4e3c-81eb-b4cee69af919,Matthew Rich,russellbeasley@example.com,376-361-5654x52711,"1528 Brenda Points, East Side",East Side,40.610448,-73.717225,2023-10-14 10:21:47,True,Occasional
+31d4dba1-8451-451c-9bca-c870c788d7d7,Meagan Jenkins,uparrish@example.org,794-351-9832x7315,"9368 Chelsea Shoals, Midtown",Midtown,40.583944,-73.55734,2021-07-01 16:28:00,True,Occasional
+9fb34b00-ac17-4fa4-8a3f-3932b1734cdc,Debra White,sandra50@example.org,(896)812-0183,"5254 Frank Port, Downtown",Downtown,40.675241,-73.60649,2021-01-03 07:24:28,False,VIP
+6adfd200-6ea9-4d53-829f-c52574147be4,Sophia Moore,craigjoseph@example.net,(979)676-4381x56149,"36900 Kevin Forest, West Side",West Side,40.746541,-73.810644,2023-02-08 09:53:30,False,Regular
+f2d9840f-664d-4634-9186-b731da4026b3,Pamela Roberts,smithjulie@example.org,(268)838-8516,"71596 Mckinney Mall, Uptown",Uptown,40.581328,-73.963145,2021-03-10 15:01:20,True,New
+bd615b3a-f536-4913-b07d-542f66fe1910,Jared Burch,lauriemontgomery@example.net,(716)513-6968x164,"2181 Rebecca Keys, Midtown",Midtown,40.585053,-73.812271,2021-06-03 23:57:05,True,VIP
+5bce89fa-8beb-4364-a68d-247ac39117f4,Tyler Brewer,joelthomas@example.org,(992)712-7799,"527 Taylor Roads, West Side",West Side,40.852252,-73.784338,2021-12-04 19:10:03,True,Occasional
+d6f84144-2c74-4ba9-b571-8bbcdad4b3a7,Donald Brown,collinsshannon@example.org,(941)519-9867x980,"9782 Shannon Valleys, Uptown",Uptown,40.70464,-73.722944,2022-06-28 15:19:15,True,Occasional
+2d7b3b6d-3039-453a-bd0d-2a24514f478e,Gwendolyn Klein,benjaminzimmerman@example.com,789.325.5466x59051,"644 Mathew Prairie, East Side",East Side,40.919927,-73.923205,2023-01-09 06:27:05,True,Regular
+6d510fc2-3389-46fe-90c2-27a5e51d60a5,Sydney Collins,tanderson@example.org,486-552-8168x5054,"7332 Chris Vista, East Side",East Side,40.740164,-73.951507,2022-02-28 11:40:18,False,Regular
+339af293-b858-44e8-a37d-cde27e0413f3,Katie Fernandez,stanleynancy@example.net,(296)822-2927,"3794 Young Garden, Downtown",Downtown,40.654177,-73.801266,2023-09-29 14:05:41,False,Occasional
+afacebd9-29e5-4a7e-b6ba-bc107f3d5621,Robert Harrison,michealvalentine@example.com,946.788.6239x240,"181 Miller Estates, West Side",West Side,40.684701,-73.777112,2022-06-24 20:29:16,True,Occasional
+aed1b68a-f970-40f1-a0d3-14d1f1024fea,Taylor Hernandez,odavis@example.com,(206)706-8536x153,"52204 Horton Dam, Downtown",Downtown,40.575565,-73.651765,2021-07-18 08:42:22,False,Regular
+d54a113f-857f-4cc8-9a33-e22650fbaeed,Julie Gilbert,smithjason@example.org,+1-298-561-4341,"9711 Carlson Brook, East Side",East Side,40.613756,-73.969508,2023-03-04 22:26:34,False,VIP
+ed5b455d-b22f-4d52-9265-55ad3f7f6916,Laura Higgins,ruben95@example.org,001-262-818-5188,"0654 Michael Cliff, East Side",East Side,40.940827,-73.761869,2021-06-11 18:57:54,False,Regular
+8badd0e8-547d-4a92-8dbe-60af8402c8bc,Nicholas Fuller,dennis58@example.com,+1-227-772-2170x4303,"8687 Johnson Rue, East Side",East Side,40.900225,-73.661233,2021-10-29 09:48:28,True,VIP
+16bf5ba4-1c5b-4dd1-bc7c-5e6f0f2342eb,Howard Norman,joshua56@example.com,001-876-452-7758x4161,"451 Mark Hill, Uptown",Uptown,40.90423,-73.936907,2023-05-18 08:43:27,True,Frequent
+8d1cb79a-a6f1-49fb-9de2-f8f6361ad7f0,Lance Simmons,cbell@example.net,(996)240-1658x202,"13556 Cassie Springs, Uptown",Uptown,40.917054,-73.871057,2021-05-18 08:24:35,True,Occasional
+75749d3c-e934-494c-b329-7ba4749ba215,Jacob Wallace,berryalyssa@example.com,543-610-2786x81447,"731 Melissa Mission, Midtown",Midtown,40.759844,-73.541419,2021-01-26 22:50:26,True,New
+f3e6d39e-e682-4601-84a9-13cc5b5fcdac,Micheal Osborn,elizabeth18@example.net,742-725-8313x2370,"8291 Kyle Stravenue, East Side",East Side,40.793967,-73.620811,2021-07-25 09:36:49,True,Occasional
+e3d2c4bd-c148-434d-8a00-2bdaa8842f5d,Kelly Hammond,martinezlogan@example.org,378.452.8922x680,"2253 Meza Path, East Side",East Side,40.940068,-73.561053,2022-06-25 18:41:31,False,Regular
+14c40f52-4fd2-4dbb-a9f1-5dc75fd5cfc2,Sarah King,david49@example.net,782-299-2299,"10943 Montgomery Burgs, Uptown",Uptown,40.637707,-73.928074,2023-04-03 07:25:56,False,Regular
+69e51cfe-8032-434b-bf38-13d46c349b50,Mr. Dylan Frye MD,eevans@example.net,4277677359,"556 Kathleen Passage, Downtown",Downtown,40.872875,-73.539583,2023-02-02 06:21:52,False,Occasional
+3582f8bb-f707-4bdd-8fcc-08439be95acb,Emma Owens,shannon21@example.org,969-963-2595x3278,"7016 Levy Forge, West Side",West Side,40.929117,-73.657574,2022-04-12 10:19:47,False,Frequent
+d3af4e31-6bd7-4c53-864c-39b653f1c7fe,Amber Campbell,amitchell@example.org,(624)356-5060x98358,"8784 David Court, Midtown",Midtown,40.8644,-73.69751,2021-07-02 12:28:13,False,Regular
+d993c739-785f-45fb-a12f-7a134b802b53,Robert Morgan,kari39@example.net,(480)700-2578x7298,"526 Wheeler Parkways, West Side",West Side,40.879747,-73.566406,2021-04-26 22:50:10,True,Frequent
+47bbbbc9-82f5-4819-96c0-454e089ade99,Kim Erickson,thomas05@example.com,+1-916-494-0974x99309,"962 Anthony Squares, West Side",West Side,40.567825,-73.574352,2021-03-01 11:12:56,False,Frequent
+37671603-743b-4293-87e1-fa63ea552891,Albert Edwards,robertharris@example.net,001-997-702-8385x78652,"549 Lee Gateway, Uptown",Uptown,40.516536,-73.97472,2023-01-09 12:17:23,False,Regular
+14de78ee-a568-46df-9783-f37eec446c54,Edwin David,kellie37@example.com,258.644.1986x6524,"157 Burgess Forest, Downtown",Downtown,40.840587,-73.879031,2023-09-29 20:11:55,False,Regular
+e6827796-ab0f-4e27-991b-b13eb3692749,Joshua Fitzpatrick,derrick99@example.org,908.333.0165,"208 Richard Wells, Midtown",Midtown,40.581757,-73.552754,2021-07-05 15:01:24,True,Frequent
+a9ff8e4f-1e6d-4ed7-92f7-68aab9c5b2c9,Matthew Avila,manuel01@example.net,001-938-402-6206,"400 Bradley Coves, Uptown",Uptown,40.928556,-73.67631,2022-02-28 14:41:26,False,Frequent
+10665875-5868-4390-80d7-381856302b47,Frances Gibson,ismall@example.net,543.415.2742x054,"668 Miller Skyway, Downtown",Downtown,40.737049,-73.933843,2021-12-21 06:14:16,False,VIP
+02320877-5e0e-4b53-90b8-7d3f74c731f1,William Woods,adamreyes@example.com,001-445-849-9045x30174,"841 Richardson Forges, Midtown",Midtown,40.711903,-73.811762,2022-12-16 20:16:13,False,Regular
+3ef6cb1e-b079-4cee-8084-2b1e3aa8afcf,Casey Hernandez,robert87@example.net,+1-533-491-8785x19108,"58713 Davis Pass, East Side",East Side,40.698576,-73.948844,2023-11-14 17:35:41,False,Occasional
+f8d41e8e-f97e-4a83-acc7-1eab7dd48066,Anthony Anderson,dbryant@example.net,340.264.0391x065,"70462 Katie Stream, Downtown",Downtown,40.740869,-73.831858,2022-07-21 16:55:17,True,Frequent
+72fd106a-ede7-4bc7-ac23-4fe1853e4188,Jennifer Haney,ywest@example.com,482-551-2868,"04786 Morrow Gateway, Midtown",Midtown,40.59418,-73.741353,2022-05-08 07:51:54,False,Regular
+b1ca4ada-6b34-475d-b3e0-02c3842fa662,Christopher Lopez,johnsondonna@example.net,001-903-531-1907x90306,"302 Young Street, Midtown",Midtown,40.840378,-73.639358,2023-10-16 15:16:58,False,Occasional
+24b5bb0b-4c58-45b4-b05f-a8bf6f72add9,Laura Barton,joel28@example.org,(744)808-9268x70568,"2462 Allen Fork, Downtown",Downtown,40.791512,-73.502623,2022-01-24 16:46:45,True,Regular
+2653f6dc-988a-43d8-9d6b-39d87bd73e59,Michael Shaffer,harttammy@example.net,626.834.3517x51830,"990 Jacob Trace, West Side",West Side,40.953263,-73.664066,2023-11-05 15:54:10,False,Frequent
+24ddfc2e-0d04-4899-a583-42fbfc724a4f,Megan Robinson,mollycook@example.org,731.673.9363,"7854 Ward Parks, Uptown",Uptown,40.646892,-73.76461,2022-06-14 23:48:58,True,Regular
+ca262962-6b60-4b98-aa07-9b489e7e3368,Robert Bowen,robin55@example.com,8936204899,"35369 Victor Shoal, Midtown",Midtown,40.827217,-73.888873,2022-04-03 15:26:50,False,Occasional
+3b23f79a-6e06-43da-a863-bc6f4602dcf3,Gail Hines,plevy@example.net,372.252.2872x8080,"62312 Jeffery Motorway, East Side",East Side,40.647026,-73.574393,2023-08-22 07:55:40,False,VIP
+19e9b500-10e6-4fca-acaf-b2df722c767e,Luke Estrada,bhopkins@example.org,+1-286-800-8484,"11823 Christine Glen, Downtown",Downtown,40.73611,-73.902728,2021-09-03 18:33:19,False,Frequent
+8e59b6ad-7e38-4113-934f-97a5d3b9b29c,Debra Sanders,susan79@example.org,001-234-410-1666x870,"76591 Jerry Ways, Uptown",Uptown,40.568683,-73.899852,2023-04-19 20:09:20,False,Occasional
+f98331dd-1bb7-4b4b-85fb-1a976d199adb,Lacey Nelson,cohenjuan@example.net,001-302-650-3926,"93968 Reyes Streets, Downtown",Downtown,40.74379,-73.684484,2021-12-29 16:40:03,True,Occasional
+8f7df033-228a-4d95-a910-f4699daa9175,William Ramsey,brian63@example.org,899-496-5047x73586,"961 Yates Station, Uptown",Uptown,40.788139,-73.920782,2021-06-30 10:39:27,False,Regular
+b09b264d-682d-4179-a5aa-5413d3fbf8c2,Derrick James,jodistewart@example.org,404-875-4121,"8886 Anthony Knoll, West Side",West Side,40.691658,-73.981137,2022-02-13 17:00:57,True,Frequent
+72d59c8f-c3eb-4aa4-a1b7-bde2e86664af,Linda Mueller,asmith@example.com,001-418-339-8262x24447,"64647 Michael Gateway, Uptown",Uptown,40.508958,-73.997938,2022-05-25 13:44:56,True,New
+828d15f4-1bbb-42f5-bc3e-3833ea9781b6,Kathleen Jensen,trodriguez@example.org,(559)965-7569x2459,"2654 Faulkner Tunnel, West Side",West Side,40.751668,-73.846942,2021-05-14 07:19:18,False,Regular
+fb69d161-f779-48b0-8635-af927acea646,James Velasquez,kdiaz@example.org,001-382-880-7374,"724 Johnny Drives, East Side",East Side,40.668918,-73.556013,2021-10-02 16:57:31,True,Occasional
+c2e0265b-b03e-4488-92c0-86d689a889e9,Rachel Jones,iaguilar@example.net,001-268-805-8911x352,"6101 Walker Summit, West Side",West Side,40.509562,-73.887839,2021-09-26 12:46:01,False,Occasional
+1318b76a-1379-41f1-9849-a5aeee1d21b0,Lauren Johnston,dbrooks@example.net,001-382-350-7146,"254 Gibson Ford, Midtown",Midtown,40.855555,-73.603936,2023-02-08 14:49:34,False,Regular
+18265512-6775-4178-8391-993130d02e69,Hannah Davis,tflores@example.org,001-810-951-2382x825,"62266 Jo Flat, Downtown",Downtown,40.830985,-73.673216,2021-02-10 07:44:07,False,Occasional
+4f6b5f60-fe6a-44db-8a8d-eb95f14465c6,Jeffrey Smith,jamiegoodwin@example.org,001-618-925-5371,"596 Matthews Keys, East Side",East Side,40.626369,-73.649066,2022-02-25 06:19:26,False,Regular
+daab6269-4f1d-448a-9fa9-28767b6491eb,Jimmy Thompson,samantha91@example.net,(851)834-1252,"296 Lopez Roads, Midtown",Midtown,40.811399,-73.649637,2023-05-08 09:32:46,False,Occasional
+384b2045-7dd9-470f-99b1-f161b3699240,Tamara Arias,angelaburns@example.org,(557)890-5072,"876 Perry Ville, Downtown",Downtown,40.74887,-73.695499,2022-06-23 22:12:22,False,Occasional
+b1eb55de-8c76-45cf-8a6a-283d369226c2,Christopher Cunningham,kellyhill@example.net,227-997-8819x1485,"361 Kenneth Bypass, Downtown",Downtown,40.774069,-73.544822,2023-09-12 16:15:00,True,New
+10e62357-f927-4655-9ec3-4a7d5148f37c,Gregory Montoya,hgrimes@example.org,595.296.2923,"584 Mario Squares, Downtown",Downtown,40.917616,-73.665489,2021-11-02 08:49:32,True,Frequent
+5fb758f6-551d-4f9d-b706-91e61ab4c827,Kenneth Farley,taylorkaren@example.com,9424232536,"466 Jones Underpass, Midtown",Midtown,40.822168,-73.771624,2022-08-30 14:29:03,True,Occasional
+5f27addf-ec5c-40b5-82b5-ef9c425e8f32,Anna Robertson,heather57@example.com,790-617-5186x36374,"8929 Kramer Springs, Downtown",Downtown,40.926124,-73.819893,2022-10-03 19:47:07,True,Frequent
+56d5b046-de12-4434-a089-b61b288c218a,Amber Sims,ksmith@example.com,706.432.4241x541,"64361 Aaron Neck, Downtown",Downtown,40.504836,-73.930803,2021-12-16 16:22:57,False,Regular
+e5d5ff0d-4920-4f1c-acfc-149a343a9d83,Kevin Stone,ssmith@example.com,362-771-3611,"4262 Casey Port, Downtown",Downtown,40.686311,-73.828639,2021-08-22 18:25:29,True,Occasional
+03af2a73-c7e1-4a35-82ee-4d3001d87c9f,Matthew Alexander,courtneyhernandez@example.com,+1-473-511-2196x565,"1389 Maxwell Spurs, West Side",West Side,40.89995,-73.675577,2021-12-08 09:08:44,False,VIP
+c4cdd102-af28-4edc-a497-c2f9c5d8f459,Ryan Liu,aprilhicks@example.net,(740)737-6137x9180,"69658 Kathryn Trail, Uptown",Uptown,40.551857,-73.544387,2023-09-16 20:11:39,True,Occasional
+2ebe50c4-2e2e-4128-9651-9afa0220613e,Kevin Smith,billbrown@example.com,348.566.6188x92414,"85691 Hale Stream, Downtown",Downtown,40.931288,-73.560025,2021-09-25 21:58:31,True,Regular
+fc581f15-de8f-4d30-b241-5670f502e11d,Cynthia Sanchez,nwilson@example.net,7426102027,"52410 Roman Groves, Downtown",Downtown,40.531668,-73.672513,2021-01-26 22:49:47,False,Regular
+787ed9b5-44d8-4186-a48c-07eb1ce0d79d,Deborah Proctor,crawfordwilliam@example.org,292.552.4191x3800,"75622 Angela Station, Midtown",Midtown,40.75955,-73.655879,2021-07-15 19:42:46,True,Occasional
+1e46d35e-7c36-48c8-bc74-c19adb8f247c,Jennifer Morris,umoon@example.com,295-818-0238,"74451 Smith Flats, West Side",West Side,40.574327,-73.586781,2021-04-22 06:41:59,True,Frequent
+f97e1492-c412-4554-8d3e-9253aa750c54,Richard Stevenson,stevenvargas@example.com,001-838-632-0603x85050,"38367 Teresa Divide, West Side",West Side,40.934708,-73.962567,2023-10-04 16:15:21,False,New
+253bdc9a-0dde-4c54-9548-d7298973c1b9,Anna Morse,xhaynes@example.com,001-519-618-2619x9062,"5655 Nelson Club, Uptown",Uptown,40.775248,-73.810681,2022-04-27 08:29:28,False,Regular
+d41ce3ef-7dec-4e53-b8bb-75950b4b11f2,Brandy Carrillo,moorefrank@example.com,261-585-3747x41124,"2135 Palmer Springs, West Side",West Side,40.723534,-73.940647,2023-10-16 06:06:25,False,Regular
+dffb1bfc-2767-40ab-94ec-5f9c38884d3c,Robert Thompson,jbond@example.net,+1-531-471-2100,"65199 Lowery Club, Downtown",Downtown,40.912954,-73.604108,2022-09-16 22:35:13,False,Regular
+48d582aa-83df-4621-9ec4-831874414bec,Austin Orr,flamb@example.com,207-802-9667,"625 Rebekah Harbor, Midtown",Midtown,40.681671,-73.972862,2022-04-02 20:21:35,False,Regular
+39cdb981-9d78-475d-9c28-e9cc332217c0,Stephen Johnson,deborahporter@example.net,701.946.2638x3806,"759 Price Falls, Midtown",Midtown,40.857957,-73.942988,2022-03-31 06:21:22,False,VIP
+808d78b6-c1b7-4f30-aa44-87be4451f583,Kyle Johnson,brian78@example.com,001-493-421-3348x03965,"95590 Meza Port, Midtown",Midtown,40.773845,-73.813055,2021-08-06 07:57:10,False,Frequent
+e9303c2c-01a4-47d4-a9ab-5ee96dcf9106,Travis Copeland,lweaver@example.com,2107393087,"325 Samantha Vista, West Side",West Side,40.553481,-73.694574,2022-01-20 09:59:54,True,Regular
+a8bce510-dee4-4633-9fda-4ce20580f7ad,Amy Hernandez,kimmathis@example.com,456-891-5452,"752 Walker Radial, Uptown",Uptown,40.858394,-73.946117,2023-04-29 07:59:40,False,Regular
+ba540e5b-0c29-4dae-96aa-36a6ecf843a1,Jamie Gross,david09@example.com,001-590-729-5939x17251,"2157 Joseph Gateway, West Side",West Side,40.728694,-73.705342,2023-10-30 10:31:00,False,New
+1391e07b-8261-4119-b615-419b53375c64,Hayley Buchanan,williamssamuel@example.com,(567)465-8617,"1040 Green Cove, West Side",West Side,40.919408,-73.758534,2023-11-08 11:44:37,True,Frequent
+2f51e328-059e-4288-a2b6-1a96b194a4bf,Christopher Bennett,paynerachael@example.org,599-870-6296x20153,"884 Evans Court, Downtown",Downtown,40.693703,-73.699727,2022-10-22 22:56:24,False,Regular
+fefc3220-876e-4297-b350-56fbddacc602,Kenneth Larsen,briansmith@example.org,897-931-0324x1714,"4186 Nathan Light, Uptown",Uptown,40.636798,-73.518203,2022-08-26 20:51:08,True,Regular
+144cb813-4efb-4503-a128-683ee28f5708,Jeremy Baker,rbaker@example.net,2218158693,"687 Thomas Common, East Side",East Side,40.649457,-73.649253,2022-10-05 23:40:13,True,Regular
+14f51256-6a2a-48f0-9379-528fa926ac24,Scott Johnson,davidtodd@example.org,(433)620-6163,"1168 Arnold Walks, Midtown",Midtown,40.843306,-73.539404,2021-09-29 11:32:34,False,Occasional
+b88a8a60-c06e-4c9a-97f1-db74df011656,Jimmy Marks,jrodriguez@example.org,001-799-811-9148,"6799 Johnson Harbor, Downtown",Downtown,40.880388,-73.71886,2023-05-05 23:18:56,False,Frequent
+8bcc02cb-55ca-4bc9-a0f8-185ff7945078,Luke Becker,vwilliams@example.net,607.945.0544,"132 Mccann Mills, East Side",East Side,40.553235,-73.809565,2021-04-19 07:12:17,False,Occasional
+4e6ec8c4-856d-4a80-a6ab-eef10dd268fb,Erica Daniel,lopezjason@example.com,001-278-450-8214x8628,"30307 Samantha Squares, Midtown",Midtown,40.841695,-73.926786,2021-05-08 15:13:48,False,Occasional
+9b910618-2e48-4e22-bca7-6f83c50653b8,Jacob Marshall,hreid@example.net,7357797279,"41406 Frank Ports, West Side",West Side,40.55124,-73.565982,2022-04-05 23:24:15,False,Frequent
+cda2e839-a3f6-4f43-991b-6e2120f4d22a,Cindy Walker,ericaadams@example.com,800.772.2903x49446,"4374 Silva Avenue, Midtown",Midtown,40.846468,-73.97651,2023-02-21 18:26:50,False,Occasional
+3a0d16d6-7cce-4590-bc60-5477bf02028c,Mary Bridges,anna99@example.com,517-215-4544x4328,"652 Diana Hill, East Side",East Side,40.526901,-73.628165,2022-02-20 20:53:14,False,Frequent
+aca6d66b-c352-4958-ba91-10e4a39853b9,Jason Price,aguilarwanda@example.org,638-475-8428x24172,"513 Walker Well, Midtown",Midtown,40.877554,-73.726692,2022-02-07 12:18:28,True,Regular
+f507d933-145e-4cff-b09e-f42d46790d89,Richard Rivera,brenda71@example.com,8996917381,"0223 Ortiz Port, Uptown",Uptown,40.981238,-73.63246,2021-09-02 18:02:27,True,Occasional
+a6ea03e0-17da-43c6-861a-e72196d64fd0,Victoria Thomas,kimberlyfreeman@example.net,(450)907-4329,"29666 Sanford Lights, Uptown",Uptown,40.791993,-73.872492,2022-11-08 20:45:59,True,Occasional
+5b91e41f-fc68-4f69-9b90-8d34745a8747,Joseph Cross,mcclainkatherine@example.net,800.633.5421,"10447 Hamilton Spur, Midtown",Midtown,40.79844,-73.61317,2022-09-09 21:50:36,False,New
+bbeab8b4-feb8-4eaa-a455-3fc885b16c07,Grace Valenzuela MD,frederickmeadows@example.com,3337230982,"064 Brittney Causeway, Midtown",Midtown,40.762698,-73.521506,2023-12-03 08:50:32,True,Regular
+1f47fc52-620f-4ddf-8667-2304b9bd8778,Martha Smith,butleromar@example.net,472-830-4618x499,"89141 Tyler Rest, West Side",West Side,40.545973,-73.889401,2022-03-13 16:21:23,True,VIP
+ed56517f-c1b8-4ac5-a1b3-6f92592774c4,Dennis Mills,michaelortiz@example.org,3873375300,"721 Jennifer Courts, East Side",East Side,40.765249,-73.501684,2021-01-19 09:42:22,False,VIP
+61245d1e-3efc-469a-8052-0f0fdadcde19,Maria Bryant,joseph01@example.org,4454561100,"5794 Nathan Junctions, East Side",East Side,40.959304,-73.878086,2021-03-23 16:24:58,False,New
+15795b37-ff4e-453a-8af3-4b1c08983528,James Rivers,mary76@example.net,(912)402-1697,"659 Michelle Villages, Midtown",Midtown,40.770119,-73.858586,2023-11-25 17:32:51,False,Regular
+67635d2a-4e38-474d-a50b-f33732a83c8b,Stephanie Webb,arodriguez@example.com,7143508993,"3756 Mary Point, Midtown",Midtown,40.949141,-73.903744,2023-11-19 08:06:10,False,Frequent
+70d82ada-deb7-4684-807e-bed99716516c,Lisa Smith,williamharrison@example.com,(517)853-5408,"3177 Miller Parks, East Side",East Side,40.503665,-73.967264,2022-03-13 19:53:06,True,Frequent
+e6e5570a-0352-4f68-8120-da43e0dc7a98,Bryan Jimenez,garciarobert@example.net,+1-901-799-4883,"0375 Moran Lakes, West Side",West Side,40.823281,-73.530124,2021-11-11 06:29:45,True,New
+2c18020b-af7a-455b-a62d-b5c6864a588f,Ashley Malone,aaronkelly@example.net,588-551-0272x6149,"63735 Katherine Cape, Downtown",Downtown,40.588996,-73.874046,2021-05-25 13:58:16,False,Regular
+8c65f9dc-af2e-415f-8d49-f101354868f9,Sara Chapman,lellis@example.net,(470)480-8697,"216 Gordon Lights, West Side",West Side,40.716513,-73.991555,2021-08-31 23:00:41,False,New
+b082a720-100d-43e9-afcd-31ac86c084ab,Lee Schwartz,joshuastuart@example.com,522.669.8485x833,"522 Page Trace, East Side",East Side,40.522758,-73.575874,2023-01-03 22:06:18,False,Occasional
+4b8fe1f5-8c22-4e8e-89f8-c78cefa08a67,John Duncan,icraig@example.com,(408)210-6200x34244,"438 Michael Mission, Downtown",Downtown,40.640759,-73.536655,2023-02-21 18:52:42,True,Occasional
+61065bb0-7728-4d2a-b48f-40f7e001f6c9,Sean Stevenson,juliahoffman@example.org,540.766.6580x04397,"893 Kelly Fall, Uptown",Uptown,40.568191,-73.804504,2022-08-28 10:19:43,False,VIP
+418d9191-94ad-407e-972b-d9ddc7b87077,Mrs. Tonya Moss,bennettroy@example.net,222-694-0572x025,"9851 Fox Ferry, Midtown",Midtown,40.978696,-73.994425,2021-10-17 09:02:00,False,Occasional
+d886d931-8716-45ce-8363-4493ca16ee2c,Rachel Moore,odavis@example.org,+1-555-554-3987x80157,"56164 Johnson Path, East Side",East Side,40.97349,-73.847654,2022-12-06 12:26:57,False,Regular
+ba8e6476-91a2-4cc5-9de6-2647e4a65564,Jaime Lang,stucker@example.net,358.511.2880,"361 Amanda Squares, Uptown",Uptown,40.591996,-73.691558,2022-06-02 12:07:11,False,Regular
+40203265-3063-4a1a-a62b-7477e0f40949,Natalie Graham,burgesseric@example.com,001-650-811-0248x193,"7665 Perry Crest, Downtown",Downtown,40.925694,-73.533815,2023-08-03 23:04:18,False,Occasional
+520108b8-bd34-4b53-9450-ab02c966f076,Margaret Montgomery,haynescharles@example.net,244-991-4766,"83268 Choi Divide, Uptown",Uptown,40.862795,-73.756405,2022-11-09 17:08:42,False,New
+ac94c121-0bf1-49f7-8fa0-40755edad248,Stephen Sanford,susan08@example.net,(310)609-9688,"53682 Jack Ridges, East Side",East Side,40.534904,-73.903251,2023-09-23 20:21:39,False,Regular
+f2467f08-5d98-4b5e-8d06-9451a6353613,Cheyenne White,yorksarah@example.net,481.541.4139x755,"49135 Hayes Ridges, Uptown",Uptown,40.782776,-73.817753,2022-10-10 19:10:00,True,Frequent
+9653b180-1aa2-48a0-983a-249dff1b63c9,Melissa Hernandez,lindsey62@example.org,333-464-5257x77547,"914 Patricia Flat, West Side",West Side,40.63834,-73.820257,2022-11-11 21:29:28,True,Occasional
+14b554c1-5a28-4056-a638-30b4240009ca,Stephen Jones,mcclainmelissa@example.net,9994693084,"6394 Steven Pass, East Side",East Side,40.554416,-73.677224,2021-06-17 14:54:52,True,Regular
+ae335973-fbbc-4391-be4b-25133e940911,Jack Smith,melaniedrake@example.net,+1-928-527-2299x27503,"45303 Hughes Motorway, Midtown",Midtown,40.866772,-73.686691,2021-06-04 06:54:32,False,Frequent
+c4c24411-a582-4ed8-8eb3-7403f1b73785,Amanda Wong,padillaadrienne@example.com,001-849-589-2665x9184,"655 Sparks Rapids, East Side",East Side,40.702567,-73.704982,2021-03-17 23:16:34,False,Regular
+77a4bc56-3f52-4baf-b2c4-76b70f55cde4,Stephen Gonzales,chrisschneider@example.org,(322)959-1365,"773 Deborah Loop, Uptown",Uptown,40.682909,-73.888347,2022-08-19 10:29:32,False,Occasional
+5b2945e0-df38-43e4-a09f-94d6dd39a774,Andrew Berry,dennishunt@example.net,(202)642-8699,"37977 Jeffrey Loop, East Side",East Side,40.505296,-73.88056,2021-12-06 22:08:28,True,Regular
+000d2b5f-a791-4943-9175-5173f6ed7b88,Rebecca Hoover,cindydixon@example.org,001-857-499-1366x2103,"127 Natalie Place, East Side",East Side,40.829707,-73.516132,2023-09-18 17:02:14,False,Occasional
+a6fd32cc-89d0-4a5a-ba62-db01edbf3ede,Autumn Olson,rachelryan@example.org,001-368-865-0863x76599,"47314 Scott Avenue, Midtown",Midtown,40.684718,-73.978596,2022-02-28 22:58:50,True,Regular
+ba36609a-a3bf-4836-9ba9-4376fa8060cb,Rachel Lane,meyernicholas@example.org,001-756-651-2694x486,"636 White Points, West Side",West Side,40.940776,-73.980048,2022-10-26 09:45:33,False,Occasional
+f583042b-6ad1-436e-8e46-0e8f09a2ac35,Dawn Parker,kim62@example.net,237-421-3865,"0127 Davis Greens, Midtown",Midtown,40.789316,-73.71492,2023-02-11 18:23:37,False,Frequent
+d49488e7-4114-4c2f-b3fb-2e1b1294fe30,Bobby Johnson,zarias@example.net,+1-284-590-2770x3843,"205 Diana Estate, East Side",East Side,40.625793,-73.513663,2022-04-02 22:25:22,False,Occasional
+fbe2ee1b-862d-43de-92cd-12c894c883a5,Donald Ross,msullivan@example.net,6115848955,"376 Jose Lodge, West Side",West Side,40.943586,-73.996701,2021-10-12 20:10:14,True,Regular
+88bba061-be4d-4fb9-abba-7384ad02fd01,Kristin Gordon,stacey84@example.net,001-947-269-7357,"1416 Erica Forks, Uptown",Uptown,40.57512,-73.921321,2021-08-31 13:26:51,True,New
+a6593200-c651-412c-8930-1927ec2ecc1b,Jennifer Gomez,haynesjose@example.com,565-618-2755,"37333 Clark Flats, West Side",West Side,40.739511,-73.704605,2023-04-22 06:15:02,True,Regular
+fdbdb37c-83f8-4010-93a4-f272586a9369,Sara Kelly,wilsonchristian@example.net,490.680.7595x7947,"3920 Mendoza Plains, Uptown",Uptown,40.81477,-73.980405,2021-10-28 07:10:16,False,Regular
+aa04555d-9240-4d35-9451-1563badb6019,Gregory Dalton,stephenmartinez@example.net,450.603.6915x594,"47955 Victor Fords, West Side",West Side,40.799679,-73.718198,2021-02-08 15:05:13,False,VIP
+19387edb-4181-4728-bd17-8841816f082d,Paul Diaz,lramirez@example.net,(593)414-3866,"270 Robert Dale, West Side",West Side,40.585283,-73.584818,2021-10-20 11:39:42,False,Occasional
+0db573e4-bf67-479c-937f-48133515c26b,Sarah Holmes DDS,jevans@example.net,9617203471,"5588 Cooper Loop, Midtown",Midtown,40.961176,-73.701733,2021-05-21 13:24:24,True,New
+5e390644-f85f-4646-94cb-fca7353001e7,Sean Mccarty,barbarasantos@example.net,(645)958-7716,"225 Welch Ports, East Side",East Side,40.929796,-73.74782,2023-05-10 10:38:06,True,VIP
+9dad67c3-4e17-40ef-8d21-659947776d9c,Terry Miller,jeremy54@example.net,296-447-5987x622,"341 Garrett Cove, East Side",East Side,40.519518,-73.608066,2023-10-28 09:05:30,False,VIP
+b16f512c-7c7e-4bd1-92d5-574627c4f4a9,Timothy Kennedy,johnsonrandy@example.org,649-921-6433,"228 Anthony Shore, East Side",East Side,40.913761,-73.551516,2023-06-03 22:26:23,False,Regular
+a874bab9-4184-44c3-9acd-f410b781b575,Thomas Lin,iproctor@example.com,+1-872-682-9979,"7831 Parker Loop, West Side",West Side,40.614743,-73.59885,2023-02-20 17:37:51,False,Frequent
+18ec675b-bfff-497d-b482-1222a8dae2e8,Eric Smith,mauriceharrison@example.org,001-577-840-6493x085,"663 Jennifer Rue, East Side",East Side,40.548858,-73.933058,2023-09-05 13:58:54,True,Regular
+528753e8-8033-4571-b471-7d142c88546d,James Baker,hgarrett@example.net,001-944-984-6312x241,"9735 Edwin Place, East Side",East Side,40.704323,-73.905489,2021-01-15 22:07:33,True,Regular
+6d55593b-5121-4e45-a55d-241a7ffab9f0,William Campbell,jenniferacosta@example.org,720-973-5647,"051 Brian Trail, Midtown",Midtown,40.704423,-73.946708,2023-05-23 14:16:54,False,Regular
+fb3d68d0-2b2a-497c-b0ac-39d68666c305,Joshua White,lisa01@example.net,567.930.3718,"4520 Jon Route, East Side",East Side,40.63778,-73.659697,2022-02-22 19:35:50,False,Occasional
+b31353eb-7be1-4c92-8e15-51fbceba90f7,Isaac Williams,teresayoung@example.com,702-349-1630x09792,"27195 Brian Rue, East Side",East Side,40.777456,-73.873111,2022-09-21 17:49:45,True,New
+33a5a88c-c2ad-460f-9e25-3c17c998ddb0,Joshua Rodriguez,jhall@example.net,001-957-530-6524x07784,"285 Oconnor Harbor, Downtown",Downtown,40.873907,-73.776703,2021-11-28 09:13:32,False,Occasional
+875886eb-224d-435f-81c5-cda1065ee23e,Linda Valencia,caseymoore@example.com,585-770-8620x959,"186 Alexandria Parks, East Side",East Side,40.807013,-73.657718,2021-04-17 11:24:40,True,New
+b374d301-b1c5-4b0e-8416-dc16c0756ff9,Brittany Campbell,hdavidson@example.org,910.622.0317x31096,"53910 Diana Village, Uptown",Uptown,40.735834,-73.699877,2021-06-30 08:16:14,True,Regular
+c8f12958-306e-415b-8ecd-078c1b3b1076,Robert Brown,yshort@example.net,3943801413,"386 James Shoals, West Side",West Side,40.965342,-73.799678,2023-12-04 15:45:38,True,Frequent
+e9f4f9c0-f2de-4ad8-8a16-56b27d51d9c8,Mario White,xreese@example.net,001-757-461-2286,"975 Pierce Islands, Uptown",Uptown,40.820146,-73.780514,2022-02-18 22:18:12,True,Regular
+358eb9fb-2c64-47c5-821d-7cfd950bfb64,Jennifer Schultz,charlene98@example.org,(484)657-7600x4908,"43350 Ellison Pass, East Side",East Side,40.849225,-73.692405,2021-03-15 17:15:41,True,Occasional
+e139b927-ec32-472d-9697-57fd4803efc8,Tammy Moore,stevenseric@example.com,(793)934-4196x931,"79194 Jessica Ports, Midtown",Midtown,40.889836,-73.823436,2023-03-21 18:37:12,False,Frequent
+69c5fc97-2381-4af8-a600-90d4d5b4c1a1,Richard Weeks,michael66@example.org,001-539-406-0480x58925,"67998 Jeffrey Highway, Downtown",Downtown,40.959589,-73.725204,2022-12-14 17:52:17,True,VIP
+47c06712-cf86-40bf-b4b4-0db2fa187a98,Brittany Rogers,dduncan@example.net,(541)568-6227x8376,"14659 Daniel Loop, West Side",West Side,40.964857,-73.712547,2022-06-19 11:26:32,True,New
+78077be1-6f5f-46d9-81b6-acac6c5938d1,Gregory Flores,carrillogary@example.com,+1-279-527-0335x211,"240 Benson Creek, Midtown",Midtown,40.669983,-73.941496,2023-11-18 14:56:34,False,Regular
+63887474-6d42-4206-a2c2-5fe39c388678,John Rivera,jamesmills@example.com,+1-679-420-6980,"43940 Pena Branch, West Side",West Side,40.983028,-73.718416,2022-05-14 16:49:29,False,Frequent
+3ac54e0a-44fd-4738-9c88-bddf6961fa43,Matthew Alvarado,michelle04@example.net,(936)281-5798x1238,"38457 Garner Brook, Downtown",Downtown,40.740985,-73.87109,2023-02-23 13:43:44,True,Occasional
+9e8604f1-18f6-4e3b-b48d-c0a4d163cda0,Harold Garrett,wendyirwin@example.com,8464084325,"68936 Ashley Meadow, Midtown",Midtown,40.758252,-73.995138,2022-06-24 13:18:05,True,Frequent
+6259ca39-8dee-4117-a888-ba66f973779b,Susan Murphy,jamietaylor@example.net,+1-332-448-2629x25188,"2056 Turner Summit, Midtown",Midtown,40.538014,-73.534302,2023-09-03 16:22:13,False,Occasional
+63362682-b8a8-4c27-9219-3821bd462c66,Stephanie Mahoney,edwin31@example.org,(509)594-9993,"051 Anderson Vista, Uptown",Uptown,40.7495,-73.900167,2022-05-11 14:13:14,True,Occasional
+efe589b0-1e95-4a21-8014-e44c4c41ccc0,Michelle Brooks,ihenry@example.org,530.360.4633,"79757 Ronald Trail, East Side",East Side,40.678014,-73.610531,2021-09-03 08:43:42,False,New
+8e4f73c5-26d0-486b-8d9b-ce0566cb99da,Nicolas James,phillip99@example.net,208.517.7038x86086,"7644 Jackson Hill, East Side",East Side,40.978997,-73.575995,2023-01-31 16:31:57,False,Frequent
+a7340816-9f78-4dd2-9cd6-45a08d6bd1a7,Amy Black,stevenlucas@example.org,001-981-529-8266x5702,"1452 Christopher Squares, Midtown",Midtown,40.745403,-73.507803,2023-11-13 14:25:14,False,New
+9874c631-97b7-4783-9c76-67e66dfb52a2,Jack Mills,gacosta@example.net,(468)460-2592,"06447 Sims Crest, East Side",East Side,40.899635,-73.76084,2021-03-08 22:22:25,False,Frequent
+0dddef1c-8f3f-4b03-b608-32a034e55e48,Toni Smith,alexander77@example.net,9973339776,"903 Harvey Point, West Side",West Side,40.988254,-73.650878,2023-08-01 16:44:00,True,Occasional
+8fd1bffc-97f1-41b7-af42-6fd91abb6ac6,Christine Lopez,delgadobenjamin@example.org,+1-499-945-1016x22499,"950 Kayla Islands, East Side",East Side,40.550374,-73.819199,2022-06-16 11:35:16,True,Regular
+a754f1fc-094e-4662-b4bc-56657e7fc456,James Jones,ebridges@example.com,321.945.8683x3901,"946 Green Ports, East Side",East Side,40.671548,-73.908043,2023-05-19 12:26:44,False,Occasional
+bc944fa3-64df-4307-8414-48ed194a5972,Heather Anderson DDS,lvasquez@example.net,843.801.0713,"55830 Hannah Glens, West Side",West Side,40.639815,-73.910055,2021-09-26 13:52:06,False,Frequent
+c1c3b3d8-c099-4ab2-8944-90953f8135ef,Elizabeth Hunter,katie15@example.com,(499)902-3557x7027,"576 Mary Hills, East Side",East Side,40.716109,-73.809558,2021-10-26 10:30:51,True,Regular
+7c7c7690-309c-4497-9d64-2d712907e90a,Megan Peters,clarkgina@example.com,824-405-6829,"145 Joseph Corners, Uptown",Uptown,40.997781,-73.575305,2023-11-25 23:46:20,False,Occasional
+23f28a05-d2ec-47dd-9cee-430268d7e230,David Hayes DVM,aliciathompson@example.com,5317780782,"8452 Lynn Path, East Side",East Side,40.929251,-73.976145,2021-07-22 11:03:13,False,Regular
+1bb4e8bc-4b66-4b96-a679-89db85f5d852,Brandi Hardy,hhughes@example.org,6402915701,"435 James Harbor, Downtown",Downtown,40.724927,-73.832672,2023-01-10 17:35:35,False,Occasional
+81c4eb1c-3aa9-480c-a4d9-f8f3c589690b,Patricia Lambert,edward41@example.org,+1-588-413-8585x424,"49587 David Mountains, Downtown",Downtown,40.70588,-73.824455,2022-02-12 23:11:49,True,Occasional
+3e83d9b1-3b2e-453b-bd42-90ed94cbb7c7,Amber Reyes,simmonsharold@example.net,001-979-454-5381,"71747 Hall Fork, East Side",East Side,40.743747,-73.631737,2021-06-10 18:39:18,False,VIP
+19e7ab0e-81af-46aa-8fb4-955f167c2872,Steven Scott,philip55@example.com,401.371.5772x4599,"1581 Patel Locks, Uptown",Uptown,40.82029,-73.535717,2023-05-14 18:54:58,True,Occasional
+ec02311a-6dfa-420d-a36f-c96883e9ce98,Cynthia Sanchez,terrireyes@example.com,396.969.5832,"99758 Lynn Fall, Uptown",Uptown,40.656741,-73.673493,2022-07-02 18:17:56,False,Frequent
+480eefa8-88a8-4d1f-ae6e-2e8a0604d13b,Jared George,pmurphy@example.net,6138290227,"973 Erin Island, Midtown",Midtown,40.873948,-73.739532,2023-07-12 19:10:11,False,New
+a78de79b-9ab7-498e-b77e-eb2efbade7c1,Robert Frazier,wrobbins@example.org,001-209-286-2405,"851 Glenn Freeway, Uptown",Uptown,40.831011,-73.529781,2021-06-13 12:10:25,True,New
+4ba3d87d-4291-4ac0-b9a1-f4cd7298384f,Kevin Garrett,bsullivan@example.net,427.623.8656,"220 Deborah Divide, West Side",West Side,40.774217,-73.986818,2023-03-25 22:48:05,True,Regular
+a95810ef-c8b1-4e48-9da6-9e7b8359c6b8,Katelyn Kim,christophermay@example.com,596.492.7868x765,"9097 Jennifer Grove, Downtown",Downtown,40.827416,-73.557264,2022-09-26 13:15:47,True,Regular
+6466b18b-fc46-4c6a-8cf2-3a25f523dae4,Joshua Richardson,carrolljanet@example.org,001-371-528-4781,"1894 Rebecca Place, Uptown",Uptown,40.763371,-73.914696,2021-03-13 17:55:58,True,Regular
+9989072b-5c34-4ef8-b5c6-5fbb8edf5cb2,Julie Hunt,vberry@example.com,(444)220-9494x079,"490 Washington Crossroad, East Side",East Side,40.967429,-73.725727,2021-10-04 23:11:37,False,Regular
+ef3f9c35-2884-4189-96b7-e535e143fc3c,Sarah Ramirez,christinahill@example.com,6195292752,"2805 Tammy Ranch, East Side",East Side,40.717489,-73.680107,2023-12-30 15:58:22,False,Occasional
+ba0fc79b-8e67-40da-aa91-3ff78b499f18,Brittany Crawford,ptownsend@example.net,923.695.0410x276,"8366 Baker Pines, Downtown",Downtown,40.72093,-73.817108,2022-06-17 10:19:00,True,Frequent
+58e1be11-a0a8-46a4-b080-ad859bb566aa,Alexandra Ho,ureyes@example.net,+1-801-985-6945x44149,"393 Byrd Falls, Uptown",Uptown,40.671942,-73.765401,2021-01-18 21:48:30,True,Frequent
+6d58291f-4fd1-4df3-bf92-ed01ca18a900,Adam Smith,smithconnor@example.org,+1-375-334-4300x91093,"92692 Heather Glen, Midtown",Midtown,40.798502,-73.601616,2023-02-05 12:26:56,False,Occasional
+976f818a-2649-4d7e-95a2-be9a3708e064,Matthew Jones,rlivingston@example.com,001-654-421-4066x504,"1739 White Overpass, Uptown",Uptown,40.857469,-73.677005,2023-02-14 13:16:05,False,Occasional
+70a913b0-face-459a-8b60-82c0f8b57bd8,Joshua Reynolds,gainesjennifer@example.org,2112947072,"642 Conway Ports, East Side",East Side,40.903787,-73.65768,2022-08-07 23:51:17,False,Frequent
+33c60554-1ea3-4460-88d8-ce02ff77c239,Michael Wise,ugraham@example.org,+1-730-667-1985,"0158 Miller Mount, Uptown",Uptown,40.568312,-73.944822,2023-07-22 20:17:44,False,Occasional
+780afb5b-05e5-4c4b-9c7b-94a9763f3ef6,Donna Harris,poncedonna@example.com,001-561-957-1732x030,"1847 Levy Brook, Downtown",Downtown,40.576075,-73.515142,2021-02-15 11:06:18,True,Frequent

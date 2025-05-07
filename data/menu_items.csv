@@ -1,0 +1,447 @@
+item_id,restaurant_id,name,price,category,is_popular
+3c31c792-d539-4c0e-a73e-a5e3e84be034,3ea55e95-5c55-485d-867e-133f00da162e,Just Plate,6.65,Side,False
+f0b9e126-8075-4fd9-91e0-bf2fd764eadb,3ea55e95-5c55-485d-867e-133f00da162e,Assume Special,7.31,Main Course,False
+5f8e0ca2-e6fa-467b-bfc1-f014dd8f3ffc,3ea55e95-5c55-485d-867e-133f00da162e,Design Bowl,7.25,Main Course,False
+4678ce27-0e36-45c4-ac97-fca076d8a79e,3ea55e95-5c55-485d-867e-133f00da162e,There Special,8.96,Main Course,False
+8dee778c-11dd-4623-b4ca-a3cd0f3deb46,3ea55e95-5c55-485d-867e-133f00da162e,Kitchen Delight,5.05,Appetizer,False
+39c8b2ec-d8d8-4380-bddd-ae04e3c65ad0,3ea55e95-5c55-485d-867e-133f00da162e,Improve Delight,8.85,Appetizer,False
+22f5a363-0220-4c80-97de-fd95b5f4840a,3ea55e95-5c55-485d-867e-133f00da162e,West Special,5.0,Main Course,False
+4d634c58-b560-4860-b383-d94150f3532a,3ea55e95-5c55-485d-867e-133f00da162e,Speech Delight,7.62,Dessert,False
+ad48376f-8ef2-4b3c-8494-4f5ed8b9e421,3ea55e95-5c55-485d-867e-133f00da162e,Pattern Bowl,9.14,Main Course,False
+29567c10-218e-4730-9b00-dfbcba7b918a,3ea55e95-5c55-485d-867e-133f00da162e,Young Plate,14.59,Main Course,False
+e07ab064-4962-4453-926b-2c4ac404babc,3ea55e95-5c55-485d-867e-133f00da162e,Safe Bowl,10.54,Main Course,False
+763ba4f0-96a6-48d7-8998-9c78410cb220,def18886-949c-450c-ab0d-ba36271be381,Again Delight,7.96,Appetizer,False
+20ce7c5d-a25e-4288-94b7-628dd38c92a8,def18886-949c-450c-ab0d-ba36271be381,Tough Plate,9.83,Main Course,False
+78b97c6b-e084-466c-a87a-78902bbbff0b,def18886-949c-450c-ab0d-ba36271be381,Up Delight,5.0,Main Course,False
+865847d1-453a-4ffa-8ae2-fafbe78f0b9f,def18886-949c-450c-ab0d-ba36271be381,Southern Delight,17.83,Main Course,False
+c5ec6376-29d3-4263-8536-21d68ff48ed3,def18886-949c-450c-ab0d-ba36271be381,Parent Combo,5.0,Appetizer,False
+c9d49346-b793-442f-a929-d1874c536fac,def18886-949c-450c-ab0d-ba36271be381,Husband Delight,6.96,Main Course,False
+120ad8e3-4142-43c8-be59-85881d7407d7,def18886-949c-450c-ab0d-ba36271be381,Me Combo,7.9,Side,False
+79bc0195-4d7d-48e1-82ab-5f675a5d27e3,def18886-949c-450c-ab0d-ba36271be381,According Bowl,6.27,Appetizer,False
+76a97ef6-f9e9-4378-98bd-4e165ebf4dbe,def18886-949c-450c-ab0d-ba36271be381,Yes Bowl,7.29,Main Course,False
+149d0616-9672-49b4-a4e8-35a9d66c5ac8,96db5cfe-8ad8-4367-8d48-386fdfde9780,He Special,26.0,Main Course,False
+46fd091a-8d21-4138-8078-8fb91dccbb33,96db5cfe-8ad8-4367-8d48-386fdfde9780,Fire Combo,37.31,Dessert,False
+1f233f83-f4b8-4d20-ba19-093e3a755399,96db5cfe-8ad8-4367-8d48-386fdfde9780,Some Special,35.71,Main Course,False
+f51a6c9d-54ab-4a1a-809f-e30320cb9b99,96db5cfe-8ad8-4367-8d48-386fdfde9780,In Combo,35.67,Main Course,False
+ceb49c35-691c-4ef8-af8e-9c25028a1d68,96db5cfe-8ad8-4367-8d48-386fdfde9780,Tonight Delight,17.99,Appetizer,False
+26c47b50-723c-4e8e-84fb-d313d9b482a5,96db5cfe-8ad8-4367-8d48-386fdfde9780,Wait Delight,30.03,Main Course,False
+a4115efc-bd3d-484c-acf7-36b95b634ea9,96db5cfe-8ad8-4367-8d48-386fdfde9780,Thing Plate,27.27,Appetizer,False
+6056eb9b-b77a-43df-8c59-ab7daa0873db,96db5cfe-8ad8-4367-8d48-386fdfde9780,Kind Delight,20.65,Dessert,False
+364afeea-8e07-4f88-8502-14f70ec9b522,96db5cfe-8ad8-4367-8d48-386fdfde9780,Nothing Special,45.58,Appetizer,False
+df5298a8-77e2-4334-ae55-4c691c58097c,96db5cfe-8ad8-4367-8d48-386fdfde9780,Small Plate,28.61,Main Course,False
+033bbfe1-7c7b-4cb0-9f9d-8c5cf2970bca,96db5cfe-8ad8-4367-8d48-386fdfde9780,Simple Plate,36.08,Dessert,False
+ee19c8e0-e753-4a81-bab0-1368689ea8f8,eca70dd7-a68c-42b1-879a-7e43904fcdc2,Office Bowl,22.68,Main Course,False
+14c38f6c-f959-438c-8d2a-593b054136f4,eca70dd7-a68c-42b1-879a-7e43904fcdc2,Such Plate,15.7,Side,False
+c4e09c6c-cf47-4ff9-b2c7-a7d80145429a,eca70dd7-a68c-42b1-879a-7e43904fcdc2,Player Bowl,23.43,Main Course,True
+d73a5a9f-7b68-4b64-9a78-cba1ccd68147,eca70dd7-a68c-42b1-879a-7e43904fcdc2,Water Combo,9.09,Beverage,False
+4ec0e107-4773-448b-aa0c-7eb30c3b59f1,eca70dd7-a68c-42b1-879a-7e43904fcdc2,Discussion Delight,19.66,Main Course,False
+1ab323d7-aae0-4368-8461-b4f5f03d1419,eca70dd7-a68c-42b1-879a-7e43904fcdc2,Method Special,22.52,Beverage,True
+84b3f06b-71c6-4e75-8a42-986603a97b32,eca70dd7-a68c-42b1-879a-7e43904fcdc2,Discuss Plate,12.71,Main Course,False
+29a86b51-2ff4-43c5-9982-c7d4ace950c4,eca70dd7-a68c-42b1-879a-7e43904fcdc2,Explain Special,7.79,Main Course,False
+df2e0db2-efaa-4ade-a4c8-0f594794aea2,eca70dd7-a68c-42b1-879a-7e43904fcdc2,Least Special,21.79,Main Course,False
+3f2988d1-bbd5-4677-837f-abe53953433e,eca70dd7-a68c-42b1-879a-7e43904fcdc2,Mention Combo,20.47,Main Course,False
+61087f42-93be-4bc5-a843-c6c7220b022a,eca70dd7-a68c-42b1-879a-7e43904fcdc2,Air Delight,13.27,Main Course,False
+b7c37e52-26cb-428c-b8a7-3a6e30883c79,eca70dd7-a68c-42b1-879a-7e43904fcdc2,Improve Bowl,19.33,Main Course,False
+66037ac8-06fe-4516-a822-3cbb949bc47b,eca70dd7-a68c-42b1-879a-7e43904fcdc2,Great Delight,12.22,Main Course,False
+296bdb63-921d-47ae-959a-716a5ce8f6e7,eca70dd7-a68c-42b1-879a-7e43904fcdc2,Relate Special,18.87,Side,False
+ed18bf93-7a00-4a1a-afe9-90752d9d652b,feb9feaf-593f-4eaf-a5e3-25f6cb53293c,Respond Special,15.99,Main Course,True
+b43f56df-caf7-4bea-b432-5aa51584d0ab,feb9feaf-593f-4eaf-a5e3-25f6cb53293c,Success Delight,14.59,Main Course,False
+fd1c45b7-3738-4c9f-b789-96c26bc53de8,feb9feaf-593f-4eaf-a5e3-25f6cb53293c,Interview Delight,14.55,Main Course,False
+aba3030f-3c83-4359-ab2c-f775392d1d59,feb9feaf-593f-4eaf-a5e3-25f6cb53293c,Shake Bowl,11.03,Main Course,False
+e3fbff2d-83af-4084-a956-31c716a271c5,feb9feaf-593f-4eaf-a5e3-25f6cb53293c,Company Delight,12.67,Main Course,False
+2296167a-ee05-4cc1-b1b7-b1e9f9596284,feb9feaf-593f-4eaf-a5e3-25f6cb53293c,Though Bowl,8.85,Main Course,False
+31e94554-7703-4897-82d3-c3791f8c9214,feb9feaf-593f-4eaf-a5e3-25f6cb53293c,Manage Bowl,10.28,Beverage,False
+b1fed1d0-0de2-4d9f-b903-7e75fa024465,feb9feaf-593f-4eaf-a5e3-25f6cb53293c,Wide Combo,19.05,Main Course,False
+0dfc5681-4d2e-4eef-bcc4-b7582a2ac453,feb9feaf-593f-4eaf-a5e3-25f6cb53293c,Care Combo,9.6,Main Course,False
+98b20da7-eced-46dd-a455-809e36cd4c30,07a93621-ccfd-40ac-b6ca-f41c3a784aa9,Prevent Delight,5.87,Beverage,False
+992c6673-cde6-4cfe-b31a-26413c7bd0a9,07a93621-ccfd-40ac-b6ca-f41c3a784aa9,None Special,12.35,Main Course,False
+272a65dd-315b-4f8a-96eb-72e3f046e056,07a93621-ccfd-40ac-b6ca-f41c3a784aa9,Agreement Plate,9.26,Side,True
+0ff23fde-210a-42df-b45f-d36605c0a7eb,07a93621-ccfd-40ac-b6ca-f41c3a784aa9,What Special,5.16,Main Course,False
+f0da6d5d-bf8c-440e-8532-e8964d5e55af,07a93621-ccfd-40ac-b6ca-f41c3a784aa9,Indeed Combo,9.93,Main Course,False
+72df609a-d67a-4bc4-a677-9bcdfb622a32,07a93621-ccfd-40ac-b6ca-f41c3a784aa9,Person Delight,5.47,Main Course,False
+f02d2965-77b8-455a-a752-072827c91e94,07a93621-ccfd-40ac-b6ca-f41c3a784aa9,Organization Plate,10.17,Main Course,False
+bee673c6-3726-4eda-bc9a-739d9ad7a028,07a93621-ccfd-40ac-b6ca-f41c3a784aa9,Recognize Bowl,6.68,Main Course,False
+84d9a9ec-9571-4b01-9017-47af65a6dea0,07a93621-ccfd-40ac-b6ca-f41c3a784aa9,Agreement Bowl,8.68,Side,False
+39cffbfb-6e3d-4a68-aa1e-d3d26f62fe58,69ef8a7c-4d12-4b57-b165-4a06225addab,Because Delight,10.2,Side,False
+5a4096f7-adf1-4e34-8bf4-dd451d3aebe9,69ef8a7c-4d12-4b57-b165-4a06225addab,Question Combo,13.59,Dessert,False
+3ca8ec4b-b786-4815-8535-7415c1b4274c,69ef8a7c-4d12-4b57-b165-4a06225addab,Later Bowl,8.43,Main Course,False
+5cbfb959-1edc-4a12-a500-2671c51370ce,69ef8a7c-4d12-4b57-b165-4a06225addab,Central Plate,14.61,Main Course,False
+45dfab22-f7a9-4490-8617-40f21911d4f0,69ef8a7c-4d12-4b57-b165-4a06225addab,Trial Combo,14.94,Main Course,True
+df3fb828-d91b-4ce3-b90f-fc1f9ad969ef,69ef8a7c-4d12-4b57-b165-4a06225addab,Main Special,15.91,Main Course,False
+55097e04-2e45-49d9-bff5-abe92dcb26a2,69ef8a7c-4d12-4b57-b165-4a06225addab,Court Combo,15.76,Side,False
+64ade34b-d5af-4ef0-8b4d-46414191ff4a,69ef8a7c-4d12-4b57-b165-4a06225addab,Apply Combo,14.27,Appetizer,False
+741c2776-045b-4fe8-9b42-75bf54e261ff,69ef8a7c-4d12-4b57-b165-4a06225addab,Ever Combo,12.04,Main Course,False
+a684e597-51d0-43ec-94d4-3b9e1d096b29,69ef8a7c-4d12-4b57-b165-4a06225addab,Hundred Delight,10.67,Main Course,False
+b040e6a6-b678-4556-bd8e-11d88067c413,69ef8a7c-4d12-4b57-b165-4a06225addab,Generation Delight,20.98,Main Course,False
+30474463-f336-409f-9ecd-e82527caee85,69ef8a7c-4d12-4b57-b165-4a06225addab,Development Special,14.66,Main Course,False
+ff576be7-4364-4a0c-8a20-f57b1070d8ae,69ef8a7c-4d12-4b57-b165-4a06225addab,Look Delight,19.48,Main Course,False
+e6fd663a-1037-476c-89f1-7a80adac4ee7,69ef8a7c-4d12-4b57-b165-4a06225addab,General Special,13.24,Beverage,True
+7b2f9e5a-918b-44b0-bd23-005d1fb20894,52fe068f-cc65-495f-b26b-79183a8771d3,Green Combo,39.15,Appetizer,False
+ed762522-2e03-4490-af00-39786cd61ac6,52fe068f-cc65-495f-b26b-79183a8771d3,Sort Delight,35.52,Side,True
+3b260bcd-6c32-4ffd-8997-dfe6bab9400c,52fe068f-cc65-495f-b26b-79183a8771d3,Until Delight,33.39,Main Course,False
+0b101302-4d47-4d48-b2dc-3de44a9c5b9e,52fe068f-cc65-495f-b26b-79183a8771d3,Hundred Delight,26.14,Main Course,False
+55c2523e-72f3-4215-88fc-0d31f091e840,52fe068f-cc65-495f-b26b-79183a8771d3,Fall Bowl,31.9,Main Course,False
+53e869e3-7bea-41b7-bf20-de8c5c10454f,52fe068f-cc65-495f-b26b-79183a8771d3,Soldier Combo,44.09,Main Course,False
+b8675b22-2eaf-4f8d-896a-2322c25cbc0f,52fe068f-cc65-495f-b26b-79183a8771d3,Theory Bowl,23.58,Side,False
+4312e7c8-3221-43ca-84f7-9305d8b8e8af,52fe068f-cc65-495f-b26b-79183a8771d3,Know Delight,24.1,Main Course,True
+00606ae9-db73-48a6-9144-7478c710006e,52fe068f-cc65-495f-b26b-79183a8771d3,Entire Combo,13.85,Main Course,False
+71e36a38-06ea-436d-aeb0-deb93f08e075,52fe068f-cc65-495f-b26b-79183a8771d3,They Delight,39.93,Main Course,False
+b1aefcc3-5f44-4443-8fe6-494052a872e9,52fe068f-cc65-495f-b26b-79183a8771d3,Beat Bowl,24.93,Main Course,False
+d7e3ddcd-a59b-4124-8383-addac66e22c0,52fe068f-cc65-495f-b26b-79183a8771d3,Many Plate,34.18,Main Course,False
+f39a86e5-0891-419c-96dc-6dceb44f8d31,7949e586-fe09-46d3-bc8d-0cc48997ec69,Burrito con Queso,9.65,Appetizer,False
+1b12c44d-5f5e-435d-b116-cf1bdfad15da,7949e586-fe09-46d3-bc8d-0cc48997ec69,Enchilada Supremo,13.49,Side,False
+2cd9d748-e357-4bc8-aef3-6d73522e4b00,7949e586-fe09-46d3-bc8d-0cc48997ec69,Nachos de Pollo,16.32,Main Course,False
+6965104e-20b7-40d8-8043-db7b0b5e0963,7949e586-fe09-46d3-bc8d-0cc48997ec69,Burrito de Pollo,14.37,Dessert,False
+2824034e-c1d4-420f-92e4-191a3a554f7a,7949e586-fe09-46d3-bc8d-0cc48997ec69,Quesadilla de Carne,12.16,Main Course,True
+cc4cfed6-a0dd-459d-b2b0-ecfa20542d65,7949e586-fe09-46d3-bc8d-0cc48997ec69,Nachos de Carne,23.36,Dessert,False
+1651f85f-a7ca-41a7-b6da-d6634575ccd7,7949e586-fe09-46d3-bc8d-0cc48997ec69,Burrito de Carne,14.55,Appetizer,False
+879b51cf-f934-4bf7-8ec1-4db73bf8e8d1,7949e586-fe09-46d3-bc8d-0cc48997ec69,Quesadilla Vegetariano,16.81,Main Course,False
+d3a49d9e-6cdc-42fb-bb70-51a9a7f9483b,98e3bdfb-c386-4e7e-8214-5978e46d503a,After Combo,9.8,Beverage,False
+d6b522ce-9c2b-416a-a6fc-c1c324d5ec5d,98e3bdfb-c386-4e7e-8214-5978e46d503a,So Delight,5.0,Main Course,False
+07d6d76c-ae68-4770-9b71-5843d80d5c9c,98e3bdfb-c386-4e7e-8214-5978e46d503a,Notice Special,7.46,Side,False
+32cfaa25-0291-4f11-a3fd-b9f80aa4ae90,98e3bdfb-c386-4e7e-8214-5978e46d503a,Area Plate,9.84,Main Course,False
+85dbcead-b21d-4da5-8df4-e302c676305c,98e3bdfb-c386-4e7e-8214-5978e46d503a,Hard Bowl,9.93,Main Course,False
+ca2b6865-f5cf-486a-8e04-415b1ba188c0,98e3bdfb-c386-4e7e-8214-5978e46d503a,Door Bowl,14.83,Main Course,False
+41ee06a3-f68d-4869-9baa-cc650bd3b151,98e3bdfb-c386-4e7e-8214-5978e46d503a,Rate Delight,5.0,Dessert,True
+7e349643-492d-4551-bf0a-95ce71ee8dbc,98e3bdfb-c386-4e7e-8214-5978e46d503a,Authority Special,9.55,Main Course,True
+1035b2a2-3f2e-4414-8a57-e366f0b18daa,98e3bdfb-c386-4e7e-8214-5978e46d503a,Statement Special,9.84,Main Course,False
+e4119c14-b1e7-43cf-a8c4-a02da683483a,98e3bdfb-c386-4e7e-8214-5978e46d503a,Reach Delight,11.41,Side,False
+93feeda3-4c7b-4de4-aeb1-75b8887f2709,98e3bdfb-c386-4e7e-8214-5978e46d503a,Amount Delight,5.0,Main Course,True
+525b9966-d60e-4977-8991-bab8372180a0,c381bf47-ffe9-4b70-9f84-6cd190f496e7,Quesadilla Vegetariano,10.71,Side,False
+41652616-0467-4e77-bdf6-f0332c17cd49,c381bf47-ffe9-4b70-9f84-6cd190f496e7,Enchilada de Pollo,9.7,Dessert,False
+22c669b7-20a8-4a72-b9fb-54fe608a9a37,c381bf47-ffe9-4b70-9f84-6cd190f496e7,Enchilada Supremo,6.47,Dessert,False
+4917cb9c-66cd-4438-b953-bc716b017172,c381bf47-ffe9-4b70-9f84-6cd190f496e7,Enchilada con Queso,5.42,Main Course,False
+ba0e615c-ad54-42c0-90d8-ee1fc70e1f51,c381bf47-ffe9-4b70-9f84-6cd190f496e7,Enchilada Supremo,6.39,Main Course,True
+8784d46f-08c6-4e5b-a3c7-6a5aeed6d933,c381bf47-ffe9-4b70-9f84-6cd190f496e7,Taco con Queso,17.77,Main Course,False
+8aa5a07a-1a5c-4018-b52d-87be2f525d3d,c381bf47-ffe9-4b70-9f84-6cd190f496e7,Burrito con Queso,7.63,Beverage,False
+180fbccc-3be5-4ba8-935e-7a28e7fa7554,c381bf47-ffe9-4b70-9f84-6cd190f496e7,Enchilada Supremo,13.82,Main Course,True
+31815c27-9385-4e20-8863-189ca5be3872,c2303ef8-b86d-4b54-a114-d1762a47fc54,Somebody Plate,5.33,Beverage,False
+b6dfd430-43a9-4aac-8a66-2605f8572a54,c2303ef8-b86d-4b54-a114-d1762a47fc54,Allow Plate,9.95,Main Course,True
+433c7dae-239c-4c23-855a-519597908d43,c2303ef8-b86d-4b54-a114-d1762a47fc54,End Plate,11.81,Side,False
+2eddd910-2576-428d-b0f8-a8394b108128,c2303ef8-b86d-4b54-a114-d1762a47fc54,Decision Bowl,6.96,Appetizer,False
+3347923f-df73-440c-8617-2b51ec9ce95d,c2303ef8-b86d-4b54-a114-d1762a47fc54,Those Bowl,9.73,Appetizer,False
+c5504112-a521-4a99-a470-13a4708695bc,c2303ef8-b86d-4b54-a114-d1762a47fc54,Again Special,9.96,Appetizer,False
+d86cae54-1a9d-4808-ad58-33c9ba9ae2f9,c2303ef8-b86d-4b54-a114-d1762a47fc54,Pretty Plate,5.0,Appetizer,True
+9d4ec4dc-c045-4d97-a0de-5a5789bedaa7,c2303ef8-b86d-4b54-a114-d1762a47fc54,Claim Delight,10.94,Main Course,True
+af693bb8-7833-4f62-9ed4-9136b13bef2c,1161ca9f-0530-4daa-b88f-bdad43acc47d,Edge Combo,21.58,Beverage,False
+12307f15-6d75-4e72-8762-32052ad33633,1161ca9f-0530-4daa-b88f-bdad43acc47d,Card Plate,14.29,Main Course,False
+0fc7e4db-e41f-4ba1-90ae-e7b2e280e160,1161ca9f-0530-4daa-b88f-bdad43acc47d,Material Plate,13.21,Main Course,True
+c2ec722b-abdc-4787-ae3e-dad987eae831,1161ca9f-0530-4daa-b88f-bdad43acc47d,Relationship Combo,15.61,Main Course,False
+61ebfe9d-4270-4d5f-8a92-204b0ee5c35f,1161ca9f-0530-4daa-b88f-bdad43acc47d,Building Delight,15.08,Appetizer,False
+7dd52ecc-2ec7-4352-a011-d5b8e3ff4d37,1161ca9f-0530-4daa-b88f-bdad43acc47d,Organization Combo,17.41,Main Course,False
+3bb854fe-7cc8-4e6e-97f9-3af83c8c5f0c,1161ca9f-0530-4daa-b88f-bdad43acc47d,Yourself Special,19.67,Main Course,False
+6bed7050-7f50-455b-a8e5-144eab1afa95,1161ca9f-0530-4daa-b88f-bdad43acc47d,Discover Special,17.26,Dessert,True
+51aa68d8-1e82-4a21-b0aa-99cb7c15bf71,1161ca9f-0530-4daa-b88f-bdad43acc47d,Make Plate,12.71,Appetizer,False
+2ec3314c-bf0f-4653-97db-990e896e057a,1161ca9f-0530-4daa-b88f-bdad43acc47d,Scene Plate,16.69,Appetizer,False
+9548fcaf-4458-439d-8128-34c4302ce3d4,89449cb7-e158-414a-bfcf-55b66923bb9d,Establish Special,7.15,Main Course,True
+c81a4deb-075a-4916-ac42-c2126b4536b5,89449cb7-e158-414a-bfcf-55b66923bb9d,Speak Special,11.99,Main Course,False
+e6dd5a3f-f68e-4164-9818-f3d2f424c0c7,89449cb7-e158-414a-bfcf-55b66923bb9d,Home Bowl,19.58,Appetizer,False
+0bd34b26-0c76-40df-a4a6-623f744f336b,89449cb7-e158-414a-bfcf-55b66923bb9d,Computer Special,18.3,Beverage,False
+666622c3-46a8-4f19-a81c-fc4628060d60,89449cb7-e158-414a-bfcf-55b66923bb9d,Police Combo,17.73,Dessert,True
+d2dc1fa5-ec39-416e-98d4-e816df6dae36,1855f07c-c327-490c-84b8-b61eebc0a92c,Policy Special,5.0,Dessert,False
+baf32e03-bbee-4bb0-967f-919c2100b93e,1855f07c-c327-490c-84b8-b61eebc0a92c,Small Special,8.57,Main Course,True
+cea7e793-237b-4e60-b382-cf96a9e2e7aa,1855f07c-c327-490c-84b8-b61eebc0a92c,Serious Plate,5.0,Main Course,False
+44596904-23d7-40b3-afdb-1ab48ea240ca,1855f07c-c327-490c-84b8-b61eebc0a92c,Building Bowl,5.6,Main Course,False
+6b96d206-53c7-48a7-b29c-55c5fa46ae9b,1855f07c-c327-490c-84b8-b61eebc0a92c,Star Plate,10.34,Appetizer,False
+86c18a39-997c-4e75-a5da-000fa0305bfc,339b212d-0335-449a-a374-8247a4710fef,Tell Plate,15.75,Main Course,False
+39599ce4-3425-4b11-98ba-9a8ffc26adbc,339b212d-0335-449a-a374-8247a4710fef,Common Special,17.0,Appetizer,False
+62995405-eec1-47f1-80ea-a6b9cb4a836e,339b212d-0335-449a-a374-8247a4710fef,Foreign Combo,24.45,Main Course,True
+974cb59d-1452-4e01-974d-da728583a85d,339b212d-0335-449a-a374-8247a4710fef,Box Combo,30.1,Main Course,True
+866407e0-7930-43e0-b0fb-63bb2225b3e0,339b212d-0335-449a-a374-8247a4710fef,Particular Delight,17.82,Main Course,False
+9da028e3-5c06-492d-a6a0-e87706055c31,339b212d-0335-449a-a374-8247a4710fef,Agree Special,27.44,Main Course,False
+95f3a323-d291-4f99-a8f7-7a13d5a9f300,339b212d-0335-449a-a374-8247a4710fef,Woman Plate,23.24,Main Course,False
+99ee7b3e-ea48-4e52-8f1d-5e731dd3c63e,339b212d-0335-449a-a374-8247a4710fef,Forget Plate,16.43,Main Course,False
+067374b6-8606-4c8e-9432-b3e8f952b48c,cbc01602-fd7f-4dc6-9791-4ba2ab5e2a12,Parent Special,48.13,Appetizer,False
+91d097eb-0250-47c3-b1a6-53c33c71789c,cbc01602-fd7f-4dc6-9791-4ba2ab5e2a12,Research Plate,40.98,Main Course,False
+911c0ad2-cecc-486d-a65c-5449c6ee2335,cbc01602-fd7f-4dc6-9791-4ba2ab5e2a12,Whatever Bowl,32.05,Main Course,True
+f9c3c05e-d84b-4901-abc3-3b23c142e652,cbc01602-fd7f-4dc6-9791-4ba2ab5e2a12,How Plate,39.38,Main Course,False
+f088a7d1-3b68-4488-8620-8a6555803303,cbc01602-fd7f-4dc6-9791-4ba2ab5e2a12,Industry Combo,31.55,Main Course,False
+a5064368-9e2c-4ffa-8eb3-150d13650e95,cbc01602-fd7f-4dc6-9791-4ba2ab5e2a12,Year Special,43.63,Main Course,True
+75f7de7d-a270-44f9-9dee-d0d24b3b7db2,6567482a-5657-4783-9313-289db98d4383,Senior Plate,22.92,Main Course,False
+79387889-b1b3-42e3-841e-3eb64a62e8cd,6567482a-5657-4783-9313-289db98d4383,Decide Combo,15.76,Main Course,False
+2b6a3f78-4446-4d60-8698-8129d1f14e95,6567482a-5657-4783-9313-289db98d4383,Bag Plate,12.75,Beverage,False
+ae3449ab-e750-4264-81ad-a8d578326834,6567482a-5657-4783-9313-289db98d4383,Person Plate,15.05,Main Course,False
+bad05cd8-a37d-4c4c-998b-409c127a93d2,6567482a-5657-4783-9313-289db98d4383,Rock Delight,15.53,Dessert,False
+47c2c149-c5ef-4a99-bb02-895df56ee198,6567482a-5657-4783-9313-289db98d4383,Then Delight,13.82,Side,False
+3e3f5e36-36f7-43b1-abf1-9d3899c3bedd,6567482a-5657-4783-9313-289db98d4383,Product Special,17.14,Main Course,False
+59f4e1d2-cd5f-494e-9b50-816ce7c78ffc,6567482a-5657-4783-9313-289db98d4383,Eight Combo,19.8,Appetizer,False
+f588476b-b39d-40cf-ac10-b2dfcb726a89,6567482a-5657-4783-9313-289db98d4383,Blue Special,10.27,Appetizer,False
+8261e96a-5f81-4e10-b1b8-47f7a3d7f999,6567482a-5657-4783-9313-289db98d4383,Same Plate,12.38,Side,False
+82c763a3-537a-4176-acd5-8224a5151d48,3b86dca9-a3f6-4a52-b033-69636b71782f,Spring Combo,15.07,Beverage,False
+b26095e4-c5b4-4281-a9da-8bb38d7cae6e,3b86dca9-a3f6-4a52-b033-69636b71782f,Fish Special,22.47,Appetizer,False
+b8938813-b615-43ea-809e-4fbb423f448d,3b86dca9-a3f6-4a52-b033-69636b71782f,To Plate,6.73,Main Course,False
+c25ac602-c159-4ca4-8df1-78526d7626ee,3b86dca9-a3f6-4a52-b033-69636b71782f,Return Combo,9.02,Appetizer,False
+e2e36187-725e-4fb2-8bf9-ea92e7a382c3,3b86dca9-a3f6-4a52-b033-69636b71782f,Plan Delight,11.38,Main Course,False
+be3d7eb0-8646-423b-a651-b59682a51cd1,3b86dca9-a3f6-4a52-b033-69636b71782f,Support Bowl,16.98,Side,False
+30509d45-df46-45e0-a8f2-280392fc7f54,3b86dca9-a3f6-4a52-b033-69636b71782f,Camera Delight,18.83,Main Course,False
+c06df28b-818d-4c40-bd58-3ceb18a03767,ebe1a30e-a1ab-43cf-a384-e9d31e4e62e9,Style Bowl,11.34,Side,False
+65359f08-3400-4825-b204-00b149734801,ebe1a30e-a1ab-43cf-a384-e9d31e4e62e9,Others Special,30.7,Side,False
+0fb68844-ea47-4b6a-ad57-778579c78bfe,ebe1a30e-a1ab-43cf-a384-e9d31e4e62e9,Stay Delight,25.07,Appetizer,True
+106c8e04-391d-46ce-b85c-b95357edd87a,ebe1a30e-a1ab-43cf-a384-e9d31e4e62e9,Analysis Combo,18.38,Dessert,False
+027a2e7d-d78b-43b5-919f-71c91d5b032e,ebe1a30e-a1ab-43cf-a384-e9d31e4e62e9,Hand Combo,25.25,Appetizer,True
+ddbb2048-287e-4d45-b26b-9f0ca8dc084e,01b7f696-29e2-4e7f-9a95-ede2605afd62,No Delight,5.0,Main Course,False
+c59339e5-ff7a-4254-aafd-1d255cd7b65a,01b7f696-29e2-4e7f-9a95-ede2605afd62,Later Special,11.79,Main Course,False
+2e98ff6b-78ff-427b-b23b-1aecf91b94ff,01b7f696-29e2-4e7f-9a95-ede2605afd62,Recently Delight,12.07,Dessert,True
+a9952d40-e9d7-4b19-b33c-3879a93fb565,01b7f696-29e2-4e7f-9a95-ede2605afd62,Hospital Special,9.74,Side,False
+44c5a6af-1c39-4077-944e-97f06da9eda1,01b7f696-29e2-4e7f-9a95-ede2605afd62,Authority Bowl,10.51,Dessert,False
+dd441ea8-8f17-4711-ac65-05a1f6db6f24,01b7f696-29e2-4e7f-9a95-ede2605afd62,Move Plate,5.0,Side,False
+5d01878e-3434-4ace-920f-d0eb6e3ad126,01b7f696-29e2-4e7f-9a95-ede2605afd62,Raise Combo,6.24,Appetizer,False
+0af0e049-cab7-4a74-9ed6-748b93d6249f,01b7f696-29e2-4e7f-9a95-ede2605afd62,Growth Bowl,6.0,Appetizer,False
+bb5ebcc9-b7dc-46bc-8abc-3b406fbe8155,01b7f696-29e2-4e7f-9a95-ede2605afd62,Actually Delight,8.51,Main Course,False
+a7a2337d-b652-4b3d-8715-232e27691bbd,01b7f696-29e2-4e7f-9a95-ede2605afd62,Time Bowl,6.24,Main Course,True
+bb5e9aa6-23e4-4757-a63e-0ed2dc484316,01b7f696-29e2-4e7f-9a95-ede2605afd62,Kitchen Combo,8.27,Main Course,False
+82c361e7-dfbc-4130-8eab-7e1ef14c3dc6,01b7f696-29e2-4e7f-9a95-ede2605afd62,Test Delight,7.07,Main Course,False
+24071e83-b903-4c03-846c-0384e75d6ec1,01b7f696-29e2-4e7f-9a95-ede2605afd62,Might Plate,5.01,Side,False
+bf881985-26da-490e-a552-99a56b8d7ef1,01b7f696-29e2-4e7f-9a95-ede2605afd62,Born Special,5.09,Main Course,False
+ee839896-68db-4a62-bdb8-1563517e95fc,42287ad2-da2f-46da-b0e3-d56db981db62,Lead Delight,63.73,Appetizer,True
+be3b3ed3-47ad-40a8-8fd7-5a8f5363184d,42287ad2-da2f-46da-b0e3-d56db981db62,High Delight,33.12,Side,False
+f620752a-8df4-4fc5-89e4-af89efbe4467,42287ad2-da2f-46da-b0e3-d56db981db62,Prove Delight,14.27,Main Course,True
+81e4d1ec-b41c-409f-9462-93bd5d7de209,42287ad2-da2f-46da-b0e3-d56db981db62,Vote Plate,54.09,Main Course,True
+2985f28c-0947-4fd7-a134-c02af3566b54,42287ad2-da2f-46da-b0e3-d56db981db62,Them Delight,39.81,Main Course,False
+810a45c2-b0ea-4846-94a2-1ccb8abb3a88,42287ad2-da2f-46da-b0e3-d56db981db62,Machine Plate,46.34,Side,False
+c307abd3-0bdf-49e8-8267-bc39f0ccb066,42287ad2-da2f-46da-b0e3-d56db981db62,Second Combo,34.09,Main Course,False
+63e56f90-c930-48ae-b5a1-869c0cf9e6eb,42287ad2-da2f-46da-b0e3-d56db981db62,Claim Delight,44.6,Main Course,False
+9d7ecba1-163b-4716-a6d5-787bab3090e3,42287ad2-da2f-46da-b0e3-d56db981db62,Learn Plate,45.23,Side,False
+3557e0db-6618-480e-860e-c09817a7432e,a34624c6-3919-474b-a09c-db43228d6e9a,Control Plate,8.91,Side,False
+ec4ec900-f13a-45f9-abd5-106d27091bfd,a34624c6-3919-474b-a09c-db43228d6e9a,Similar Bowl,31.75,Appetizer,True
+24fa89b5-a21f-42ef-827a-3488295dc206,a34624c6-3919-474b-a09c-db43228d6e9a,Nearly Special,23.91,Appetizer,False
+da2b4336-3015-47ba-ab7e-2d9652bc2b52,a34624c6-3919-474b-a09c-db43228d6e9a,Rather Bowl,25.67,Main Course,False
+901f99e6-6390-4443-9581-a60e6f653531,a34624c6-3919-474b-a09c-db43228d6e9a,Expect Plate,27.82,Side,True
+cbfd7ed9-a3f7-4c2e-a840-13940399d8a2,a34624c6-3919-474b-a09c-db43228d6e9a,Power Delight,14.91,Beverage,False
+66cc2da0-e5f1-4699-bcd0-9beb75b030cb,a34624c6-3919-474b-a09c-db43228d6e9a,System Bowl,18.5,Appetizer,False
+5d597d92-88ae-4669-ac3f-2583943a2fc4,a34624c6-3919-474b-a09c-db43228d6e9a,Wide Special,32.93,Main Course,False
+9d08eefe-f793-45a4-bca0-25e85cb7d693,a34624c6-3919-474b-a09c-db43228d6e9a,Nothing Special,41.73,Main Course,False
+70b0afb0-a109-4203-bd79-c760592ab9ec,a34624c6-3919-474b-a09c-db43228d6e9a,Stage Special,25.14,Appetizer,False
+036538d9-c965-4f66-adaf-1e5f361aa55d,d4cff1ca-42df-4a86-9062-136e00f11750,Member Delight,5.0,Main Course,False
+f708edb1-f9b1-4bdf-ad90-4aa9cc6fcdfc,d4cff1ca-42df-4a86-9062-136e00f11750,Make Plate,5.0,Main Course,False
+2a7a181c-d042-4ad5-94b1-3c6ee1eabc22,d4cff1ca-42df-4a86-9062-136e00f11750,Least Delight,15.84,Beverage,True
+4fe83cdd-2b99-49c0-8024-12d7455c4dfc,d4cff1ca-42df-4a86-9062-136e00f11750,That Plate,7.2,Dessert,False
+b89943b3-11ef-4de8-ba75-69bf443eb6d1,d4cff1ca-42df-4a86-9062-136e00f11750,Side Combo,8.88,Main Course,False
+9a599afa-0ec0-4194-979e-cd909425f2dd,c4429a43-1837-4207-8470-63c95b9b1b21,Person Plate,11.54,Appetizer,False
+1b96fa0f-ae8c-4639-b027-f119e75fe6c9,c4429a43-1837-4207-8470-63c95b9b1b21,Executive Bowl,5.0,Appetizer,False
+fc557756-5dd4-42c4-9372-60a388f9a57c,c4429a43-1837-4207-8470-63c95b9b1b21,Future Special,8.65,Main Course,False
+eb776da1-155f-4dbb-929c-e3191bcc9ff4,c4429a43-1837-4207-8470-63c95b9b1b21,Together Combo,5.0,Main Course,False
+ac78343d-2366-4cb4-9a71-a8c6e08a23eb,c4429a43-1837-4207-8470-63c95b9b1b21,Else Combo,9.9,Main Course,False
+7254ad8e-982f-4f07-aafb-50d47f7f63c5,c4429a43-1837-4207-8470-63c95b9b1b21,Then Combo,9.43,Main Course,False
+849703fd-1a78-4780-aec5-570223f9115a,c4429a43-1837-4207-8470-63c95b9b1b21,Worry Special,7.55,Main Course,False
+ea61b817-8164-4d0f-b43f-915a1c0c45c9,c4429a43-1837-4207-8470-63c95b9b1b21,Before Plate,9.15,Main Course,False
+eb89e7a1-2b25-4c59-b5d0-3e3bae109225,7014848d-ee43-49c9-a00a-9a531d609cf5,Family Special,8.8,Side,False
+8532c55f-b088-4613-a507-428a1676415b,7014848d-ee43-49c9-a00a-9a531d609cf5,Upon Special,6.48,Main Course,False
+95797187-6fc8-442e-928d-b42dc2675764,7014848d-ee43-49c9-a00a-9a531d609cf5,Little Special,7.7,Dessert,True
+314d5aa5-43dd-4b98-b1f2-bbcb744904a4,7014848d-ee43-49c9-a00a-9a531d609cf5,Either Combo,6.1,Main Course,False
+710e9ace-0da3-4930-9b40-154a505d07e7,7014848d-ee43-49c9-a00a-9a531d609cf5,Social Special,7.99,Main Course,False
+e567c35c-2f73-4ea9-a4c3-456fe3df09b8,7014848d-ee43-49c9-a00a-9a531d609cf5,Majority Bowl,5.73,Main Course,True
+a12ed24b-3e9c-4ae9-a64a-88507dbb2472,7014848d-ee43-49c9-a00a-9a531d609cf5,Over Delight,6.09,Appetizer,False
+4563ba6c-7259-4694-beec-2627417d6498,7014848d-ee43-49c9-a00a-9a531d609cf5,Poor Plate,8.45,Appetizer,False
+d6ee718e-a6c1-4ad2-a2c5-d91c1f2453cd,7014848d-ee43-49c9-a00a-9a531d609cf5,Relate Combo,7.43,Main Course,False
+1231ae56-3988-4134-9729-a66671119f17,7014848d-ee43-49c9-a00a-9a531d609cf5,Hundred Combo,5.34,Dessert,False
+fcade084-59b9-41b1-8d5e-7216b34f0067,154d6c49-f32b-4d55-af56-2917c59db3ff,Great Bowl,9.74,Appetizer,False
+800965cb-e5a9-4239-ba06-b4cf530b08a9,154d6c49-f32b-4d55-af56-2917c59db3ff,Air Bowl,24.35,Appetizer,False
+fd81e8ff-fdc9-4971-acc2-912f6806bcb0,154d6c49-f32b-4d55-af56-2917c59db3ff,Miss Combo,12.44,Side,False
+66650afc-5277-4264-b8a8-b0db477dc0a8,154d6c49-f32b-4d55-af56-2917c59db3ff,Today Combo,6.83,Side,False
+d222af48-1694-44b8-a40b-d7c478f26dec,154d6c49-f32b-4d55-af56-2917c59db3ff,Garden Special,14.78,Appetizer,False
+eaa0f4ad-0d73-48a1-bc0d-0a5c53a64e76,154d6c49-f32b-4d55-af56-2917c59db3ff,Court Delight,18.53,Main Course,False
+f7ae4b54-8f55-4669-b02c-5a9f2bf760ed,b329a2af-b049-46f3-9804-353d805bec89,Method Plate,8.68,Beverage,False
+2dac5485-aa26-4168-8cbf-2d6929e576fb,b329a2af-b049-46f3-9804-353d805bec89,Difference Combo,9.43,Appetizer,False
+c54254d3-e6aa-4f16-b23f-c52d40e6040b,b329a2af-b049-46f3-9804-353d805bec89,Hear Combo,10.28,Main Course,False
+8aba7a81-9aff-4f90-8a10-b148000c8881,b329a2af-b049-46f3-9804-353d805bec89,Subject Combo,5.0,Main Course,True
+a6c43b03-0eff-45e7-9e0e-62737283e5bf,b329a2af-b049-46f3-9804-353d805bec89,Evening Delight,8.02,Side,False
+a0925657-7e2e-4d31-81f6-b17c617329b4,b329a2af-b049-46f3-9804-353d805bec89,Grow Plate,10.2,Beverage,False
+4c9d12d4-9f6e-440b-9f66-179bfaa2c681,b329a2af-b049-46f3-9804-353d805bec89,Far Delight,8.19,Dessert,True
+1d49d08c-c9e3-4b1f-b010-951202ad1b6a,b329a2af-b049-46f3-9804-353d805bec89,Up Special,8.73,Main Course,False
+7364371f-cfd1-4fef-9608-4431093861e7,b329a2af-b049-46f3-9804-353d805bec89,Pick Special,8.7,Main Course,False
+8ad2d93f-5f5c-4a6c-bdbc-dd5ac417b9d3,b329a2af-b049-46f3-9804-353d805bec89,Science Bowl,12.73,Main Course,False
+3c24ee43-9969-498d-9c1b-f8a33a31610c,b329a2af-b049-46f3-9804-353d805bec89,Up Delight,10.09,Main Course,True
+140e86d3-8e24-4634-9298-66963cd9286b,a740faea-2d85-43f9-9252-744ced447767,Quesadilla con Queso,18.68,Side,False
+7c20bd4f-3ee0-4d7d-b66c-a7d96c3572da,a740faea-2d85-43f9-9252-744ced447767,Enchilada con Queso,20.3,Side,False
+9aaa2e19-1dbf-45a6-b356-838beca16a59,a740faea-2d85-43f9-9252-744ced447767,Enchilada Supremo,16.95,Main Course,False
+bb0e95d9-27e2-4f0b-8d4b-a25b5a4b16fe,a740faea-2d85-43f9-9252-744ced447767,Burrito de Pollo,18.11,Appetizer,False
+37951106-79f6-440b-803d-b18728cad3af,a740faea-2d85-43f9-9252-744ced447767,Quesadilla Vegetariano,17.07,Appetizer,False
+c1000c85-01f2-461f-ab80-3951d45416a1,a740faea-2d85-43f9-9252-744ced447767,Nachos de Carne,5.0,Main Course,False
+3361f0a6-ef26-4ba0-a0d3-ca67e048920c,a740faea-2d85-43f9-9252-744ced447767,Burrito Vegetariano,10.67,Appetizer,False
+1241dae5-9cd5-4e76-bea9-11fa66d65b51,a740faea-2d85-43f9-9252-744ced447767,Nachos de Carne,16.09,Dessert,False
+ba09ebed-17a9-4318-a0f8-22d9da486d81,4739a2fd-3e9c-4f68-8fed-96370dade7d3,Burrito con Queso,51.93,Beverage,False
+1ea0e5b2-5421-40c4-ab0e-e3cf35bde202,4739a2fd-3e9c-4f68-8fed-96370dade7d3,Quesadilla con Queso,7.84,Main Course,False
+caf23dab-36e0-4d01-bab0-3cab2f639583,4739a2fd-3e9c-4f68-8fed-96370dade7d3,Taco de Pollo,26.94,Main Course,False
+3fdb8faf-9651-4b72-9905-20a15da8321c,4739a2fd-3e9c-4f68-8fed-96370dade7d3,Quesadilla Supremo,45.65,Main Course,True
+2276c74d-827f-4ea2-97cb-1c8859f17812,4739a2fd-3e9c-4f68-8fed-96370dade7d3,Enchilada de Carne,51.87,Main Course,False
+613dd472-e92e-4200-8f9e-e25738185f9f,4739a2fd-3e9c-4f68-8fed-96370dade7d3,Burrito de Pollo,69.1,Side,False
+7f025b67-043b-4106-bd84-3890885aaad7,4739a2fd-3e9c-4f68-8fed-96370dade7d3,Burrito Supremo,57.36,Main Course,True
+07adb4d1-215b-440e-96ab-bb8666457fca,4739a2fd-3e9c-4f68-8fed-96370dade7d3,Burrito de Carne,30.96,Main Course,True
+f1329e2f-4231-4d1d-83ec-296ea9c0981d,4739a2fd-3e9c-4f68-8fed-96370dade7d3,Quesadilla Vegetariano,56.74,Appetizer,False
+c22c0794-2cbc-4217-b77b-1ddb79403692,4fea8353-ed61-4e1f-8946-04f7b87ab249,Fact Special,9.06,Main Course,True
+3321c5eb-83f7-46bd-8377-a38aa7fd31ee,4fea8353-ed61-4e1f-8946-04f7b87ab249,Only Delight,10.71,Main Course,False
+acbe56ff-6007-4f7c-8884-4a68f1fd66df,4fea8353-ed61-4e1f-8946-04f7b87ab249,Action Bowl,6.33,Side,True
+2be04eae-84e4-4c76-ad2a-06ca979d8720,4fea8353-ed61-4e1f-8946-04f7b87ab249,Nation Combo,5.82,Side,False
+eb5a5a21-0ae3-4ed1-a9ec-36409e03f7a7,4fea8353-ed61-4e1f-8946-04f7b87ab249,Yourself Bowl,12.22,Side,False
+148b9820-e7a6-4120-a9a0-ba598184b91c,4fea8353-ed61-4e1f-8946-04f7b87ab249,Cut Combo,7.07,Main Course,True
+a59103f0-5c6a-4c4b-8ba4-9256ce94a0a3,4fea8353-ed61-4e1f-8946-04f7b87ab249,Bed Plate,5.0,Dessert,True
+3c82af31-a815-40b3-8964-daedbdd796bc,4fea8353-ed61-4e1f-8946-04f7b87ab249,Effort Delight,5.51,Appetizer,False
+2cd65075-4678-472c-9853-1dec17510d4d,68fa082a-2602-4d81-a366-54ed5e638185,Service Combo,14.5,Main Course,True
+32df84da-ba69-4682-b67f-8fba2db290cf,68fa082a-2602-4d81-a366-54ed5e638185,Investment Combo,7.94,Side,False
+7454d87a-d022-48b2-9920-6fbe5adb71b8,68fa082a-2602-4d81-a366-54ed5e638185,Middle Delight,12.39,Side,False
+81374557-09a0-4e13-b125-f08b0fa93b3e,68fa082a-2602-4d81-a366-54ed5e638185,One Combo,8.21,Side,False
+8656df87-edfc-42b0-93e6-274bbfc9fcfb,68fa082a-2602-4d81-a366-54ed5e638185,Son Delight,5.09,Dessert,False
+2971fc6f-7c08-48fc-b2fa-edc1ca3d6bb0,68fa082a-2602-4d81-a366-54ed5e638185,Effect Delight,11.64,Main Course,False
+b72dcc3f-a408-4f23-9c46-d1908c6d2e0a,68fa082a-2602-4d81-a366-54ed5e638185,Rock Special,13.95,Side,False
+26d0a6d9-8ae0-4ef1-b491-fa77fbf64538,68fa082a-2602-4d81-a366-54ed5e638185,Maybe Plate,22.64,Main Course,False
+3424bbaa-b8cb-4230-8d6a-cf4f0b8e6cd9,68fa082a-2602-4d81-a366-54ed5e638185,Race Delight,18.69,Main Course,False
+e4dde12e-9c0f-4b37-90e3-e1d7c3245f5f,68fa082a-2602-4d81-a366-54ed5e638185,Seek Plate,30.46,Main Course,False
+27edcd6c-a1e8-4f5b-8e7d-4cb38a1d9bc3,68fa082a-2602-4d81-a366-54ed5e638185,Military Plate,17.83,Side,True
+d58cf6f9-15a0-4e48-b209-540fb267d48b,68fa082a-2602-4d81-a366-54ed5e638185,Line Delight,13.86,Side,False
+8296fce7-03c8-4c32-a529-a48cfe217874,68fa082a-2602-4d81-a366-54ed5e638185,Structure Bowl,15.05,Side,False
+369e2864-b88c-4875-b0c4-2fd9a0700ebd,68fa082a-2602-4d81-a366-54ed5e638185,Adult Special,17.92,Main Course,False
+c98b9cb6-e481-4694-8f80-d34a57e41a05,68fa082a-2602-4d81-a366-54ed5e638185,Better Bowl,13.98,Main Course,False
+f41899e2-232e-43b1-ad94-98d2337a4f4c,547a2699-78dd-44fe-8b7e-51bd349c71b2,Financial Bowl,28.02,Beverage,False
+8d71bfb0-ccfd-4f49-ab81-a92e80d25ecc,547a2699-78dd-44fe-8b7e-51bd349c71b2,Do Delight,30.76,Appetizer,False
+f3bc92d1-0840-473a-9aaa-a82ebce384e2,547a2699-78dd-44fe-8b7e-51bd349c71b2,Interview Delight,15.61,Main Course,False
+629e582d-36fa-495d-a34e-849b96e12f59,547a2699-78dd-44fe-8b7e-51bd349c71b2,Role Bowl,51.58,Appetizer,False
+92e13154-0821-4316-972b-adeed35209cb,547a2699-78dd-44fe-8b7e-51bd349c71b2,Either Bowl,19.98,Main Course,True
+9db6effd-6e31-41dd-8359-9362892da9d2,547a2699-78dd-44fe-8b7e-51bd349c71b2,Follow Special,19.19,Main Course,False
+37e459af-981d-4833-aca3-d765bbe822e7,547a2699-78dd-44fe-8b7e-51bd349c71b2,Record Plate,7.04,Main Course,False
+3c62e3c9-e373-429b-9efe-919defc88208,547a2699-78dd-44fe-8b7e-51bd349c71b2,Party Delight,20.12,Side,False
+66266acf-1276-4098-be00-007ee71fab7e,547a2699-78dd-44fe-8b7e-51bd349c71b2,Home Delight,29.63,Main Course,False
+34fe5e7c-303f-4e6f-934a-25139351b572,54775fe0-d6c4-480f-abc8-9679fb94dfa0,Material Special,6.68,Main Course,False
+b63a9d04-e023-46c6-82f1-8ab23cc4ef72,54775fe0-d6c4-480f-abc8-9679fb94dfa0,On Combo,11.69,Side,False
+48d5769f-d4ab-45b4-8232-649ca25cd26d,54775fe0-d6c4-480f-abc8-9679fb94dfa0,Nice Special,11.39,Main Course,False
+3f148046-cfd4-4d6d-acf0-74867be34aba,54775fe0-d6c4-480f-abc8-9679fb94dfa0,Guy Bowl,8.66,Main Course,False
+8b3e154f-2067-4a35-9091-e12099cd6cc4,54775fe0-d6c4-480f-abc8-9679fb94dfa0,Large Bowl,6.59,Main Course,False
+d1020352-0dd8-4c32-b248-a4d0b86c75de,54775fe0-d6c4-480f-abc8-9679fb94dfa0,Skill Special,5.0,Main Course,False
+d5b47393-b509-4504-869b-0457fb2ab83c,cd03d8e9-b448-4cdf-a391-551add78c13f,Oil Delight,7.25,Appetizer,False
+574b3bd0-a32f-4518-a2f7-14852f518af1,cd03d8e9-b448-4cdf-a391-551add78c13f,Give Combo,7.28,Main Course,False
+a10ca726-ed8a-4ea7-912f-409ed1562f60,cd03d8e9-b448-4cdf-a391-551add78c13f,He Plate,8.77,Side,True
+2ad42c44-9bdc-466e-933a-d88bee377f38,cd03d8e9-b448-4cdf-a391-551add78c13f,Scientist Plate,10.32,Main Course,False
+fefccbdb-cfd2-4188-a610-14e5675dd9ca,cd03d8e9-b448-4cdf-a391-551add78c13f,Long Bowl,6.29,Main Course,False
+fc0905d5-9786-4cd0-8423-ddf143e98b72,cd03d8e9-b448-4cdf-a391-551add78c13f,Experience Delight,8.28,Side,True
+8a363c08-3fa3-43c1-bb43-99595f36b9e8,cd03d8e9-b448-4cdf-a391-551add78c13f,Follow Combo,12.94,Dessert,False
+7293dd95-6a70-4020-a577-9c4ac0cb24c1,cd03d8e9-b448-4cdf-a391-551add78c13f,Enter Plate,12.52,Main Course,False
+19949d3e-81fd-4fe8-b892-7e0c956cec06,cd03d8e9-b448-4cdf-a391-551add78c13f,During Special,10.21,Main Course,False
+3186f877-aa80-432d-8f30-4fbe15836e62,cd03d8e9-b448-4cdf-a391-551add78c13f,Camera Delight,7.72,Main Course,False
+dca21989-e03b-4378-9c6f-c3b1ae106de0,cd03d8e9-b448-4cdf-a391-551add78c13f,Set Plate,13.58,Appetizer,False
+1a90ccaf-b7ac-47f0-af2f-9227f0b4841d,cd03d8e9-b448-4cdf-a391-551add78c13f,Data Delight,6.79,Side,False
+f45dbe38-d13f-42bd-ba64-c267601036e9,209519ca-68e4-408c-adec-2269127a180a,Four Plate,8.0,Main Course,False
+aafbe77a-2ccc-4bca-9997-142ce7c03dfa,209519ca-68e4-408c-adec-2269127a180a,Call Plate,10.28,Dessert,False
+e3fe0989-fa87-412a-82d4-35af67564fa4,209519ca-68e4-408c-adec-2269127a180a,Situation Special,12.71,Dessert,True
+0b4745c8-291d-460f-8a9c-34d5bd27b752,209519ca-68e4-408c-adec-2269127a180a,North Special,5.63,Side,False
+63254bb0-ca44-4629-8504-9b53d6211fa0,209519ca-68e4-408c-adec-2269127a180a,Sound Combo,5.0,Beverage,True
+2f9631e9-4ebf-4dd9-8adc-e8c6c797f683,209519ca-68e4-408c-adec-2269127a180a,Road Plate,8.16,Main Course,True
+aaa2202f-9cd2-4f9c-b6f2-477319e3dd94,7a69b43e-40d3-473f-aa9c-cf21eed26396,Crime Plate,22.24,Main Course,False
+0f710027-af2c-4968-9382-7e396e163286,7a69b43e-40d3-473f-aa9c-cf21eed26396,Dark Special,23.34,Main Course,False
+7d308502-074d-41d6-aa9c-be93a3363d3f,7a69b43e-40d3-473f-aa9c-cf21eed26396,Direction Special,42.19,Main Course,True
+d82109a7-2f35-42b2-b3c2-e27cd1b990d5,7a69b43e-40d3-473f-aa9c-cf21eed26396,Single Delight,12.05,Side,False
+c0b5a2c1-d8f4-42d0-94d3-af1986648985,7a69b43e-40d3-473f-aa9c-cf21eed26396,Member Plate,30.37,Appetizer,False
+0f3d2526-dd12-465d-b78c-c5187563903e,7a69b43e-40d3-473f-aa9c-cf21eed26396,Factor Delight,34.72,Main Course,True
+170a3a66-2446-4646-8d17-6a54aff870a9,7a69b43e-40d3-473f-aa9c-cf21eed26396,Shake Special,47.49,Main Course,True
+b449f4df-558d-4bab-952f-cfbfad27889a,7a69b43e-40d3-473f-aa9c-cf21eed26396,Perform Combo,42.38,Main Course,True
+7371c773-83c0-4a9a-a514-ef74e2cb72d1,7a69b43e-40d3-473f-aa9c-cf21eed26396,Soon Plate,51.57,Appetizer,False
+71554d5e-7615-4573-8957-e68918017df2,7a69b43e-40d3-473f-aa9c-cf21eed26396,Network Delight,36.85,Dessert,False
+7bb56bb7-8339-4982-9821-4b8cd9ce1ad0,8a9e374d-f43e-44b2-bd9f-7de626ce6211,Picture Bowl,8.45,Appetizer,False
+02adfe5b-6b75-428b-a334-3d2ceba92d3f,8a9e374d-f43e-44b2-bd9f-7de626ce6211,Fear Special,6.6,Main Course,True
+b1c8a019-b203-4426-9b29-c48187df549e,8a9e374d-f43e-44b2-bd9f-7de626ce6211,Black Special,7.91,Main Course,False
+4b5ffca6-7227-413b-a4ae-3f66797c5d38,8a9e374d-f43e-44b2-bd9f-7de626ce6211,There Delight,8.6,Main Course,True
+95263150-18e1-477f-befd-44e3a9afdeb3,8a9e374d-f43e-44b2-bd9f-7de626ce6211,Daughter Delight,5.73,Main Course,False
+41aa64e3-a7fc-4dce-b12f-33d99a68cd64,e65b7ee9-1f6d-4765-9646-e387215680af,Fine Special,19.6,Main Course,False
+b5abf0dd-1528-409a-97c0-88e730c693ee,e65b7ee9-1f6d-4765-9646-e387215680af,Dream Special,19.01,Beverage,False
+5dce9389-20f4-4a84-b01a-89f8e9951292,e65b7ee9-1f6d-4765-9646-e387215680af,Herself Special,33.78,Side,False
+8a764485-f491-4928-9318-3d935732c89a,e65b7ee9-1f6d-4765-9646-e387215680af,Country Special,15.73,Appetizer,False
+cc955482-9bc2-4b9b-ad7f-9ad7a4830fae,e65b7ee9-1f6d-4765-9646-e387215680af,Five Combo,6.1,Side,True
+ddb6cb9b-144c-4caf-9abe-716a59227c17,e65b7ee9-1f6d-4765-9646-e387215680af,Address Bowl,23.81,Side,False
+c1fb3b04-5847-47c5-ac73-a345f887bb1a,e7511a09-d43c-4b5f-9058-3403c6a2f57e,Section Delight,9.03,Main Course,False
+7350068d-7dd9-4374-b92b-cd068f8836c9,e7511a09-d43c-4b5f-9058-3403c6a2f57e,None Bowl,13.25,Beverage,True
+15fd677a-0d79-46fc-a2c5-e128c936094d,e7511a09-d43c-4b5f-9058-3403c6a2f57e,Card Delight,8.91,Dessert,False
+d32ca7e5-1194-436f-95bb-b1e4ef7aaf83,e7511a09-d43c-4b5f-9058-3403c6a2f57e,Eye Delight,9.07,Dessert,False
+d4d6871a-f3c7-438b-b5d5-986f24efeb5d,e7511a09-d43c-4b5f-9058-3403c6a2f57e,Answer Combo,13.64,Main Course,True
+6a569494-4b60-4214-8d5e-7d62174bd6ae,e7511a09-d43c-4b5f-9058-3403c6a2f57e,Arm Special,5.0,Main Course,False
+56702ad2-c4c9-45fa-96eb-d98cb6ab201a,e7511a09-d43c-4b5f-9058-3403c6a2f57e,On Delight,11.59,Appetizer,False
+60053f4f-128e-4b31-b313-9c0e471d311f,e7511a09-d43c-4b5f-9058-3403c6a2f57e,Final Plate,5.46,Main Course,False
+de0cc24a-d08b-4e03-827e-efa9b662d449,e7511a09-d43c-4b5f-9058-3403c6a2f57e,Save Combo,5.71,Main Course,False
+fa2e8057-5c57-4efe-a5c6-a6d68c6a2564,e7511a09-d43c-4b5f-9058-3403c6a2f57e,Yet Combo,7.87,Appetizer,False
+b0578095-541a-46d5-a384-66d4ef769cc9,ab7fd423-ee82-4286-949c-bfc28daac20c,Card Bowl,6.81,Main Course,False
+1824e0e8-d409-4311-8950-c4daf240e69b,ab7fd423-ee82-4286-949c-bfc28daac20c,Pull Special,7.78,Main Course,False
+3c2f4b2f-9c7d-4e50-b7f0-86ba64a2e933,ab7fd423-ee82-4286-949c-bfc28daac20c,Trouble Special,5.0,Side,True
+12a5dc89-a43a-4eb9-a12e-873cd634c316,ab7fd423-ee82-4286-949c-bfc28daac20c,Soldier Bowl,8.18,Main Course,False
+70b8521f-e46e-410c-9acb-0884f6e27655,ab7fd423-ee82-4286-949c-bfc28daac20c,Military Delight,5.68,Main Course,True
+66bc2b45-403b-44b0-baaf-954741ce0ff3,ab7fd423-ee82-4286-949c-bfc28daac20c,Board Delight,5.95,Main Course,False
+f4c3b884-57be-4daf-bd4d-a122a97a76c0,ab7fd423-ee82-4286-949c-bfc28daac20c,Turn Delight,6.06,Side,False
+1f675cc8-09ce-4589-9762-2308c1c49ff7,ab7fd423-ee82-4286-949c-bfc28daac20c,Actually Plate,9.99,Main Course,False
+e5a8f7ed-7760-468e-84ce-b0a694df58c3,ab7fd423-ee82-4286-949c-bfc28daac20c,Painting Bowl,7.7,Main Course,False
+049dfc37-d3b0-48af-8b77-009ad60f7ed1,ab7fd423-ee82-4286-949c-bfc28daac20c,Feel Special,9.28,Main Course,False
+8f8b0d92-ccf1-46a2-8fdf-558f9db3ece1,ab7fd423-ee82-4286-949c-bfc28daac20c,Manager Delight,11.24,Main Course,False
+fd3daf16-4a74-4214-9958-f983a860f574,ab7fd423-ee82-4286-949c-bfc28daac20c,Measure Combo,9.42,Main Course,False
+288aa5ec-2228-46d9-824c-de5ff4188b06,9abd0cd4-be34-44bd-9bce-ff2ec59e49e7,Let Plate,13.39,Main Course,False
+f677c182-1e92-4c10-a061-09174fffb380,9abd0cd4-be34-44bd-9bce-ff2ec59e49e7,Grow Bowl,43.34,Main Course,False
+40d239ae-6508-4f09-9955-11fa643ef668,9abd0cd4-be34-44bd-9bce-ff2ec59e49e7,Create Bowl,42.77,Main Course,True
+e4b58867-4baa-442a-9099-4ef003580863,9abd0cd4-be34-44bd-9bce-ff2ec59e49e7,Approach Delight,62.85,Main Course,False
+6a27c3cd-1233-43b2-af31-e8fff685c9d6,9abd0cd4-be34-44bd-9bce-ff2ec59e49e7,Entire Bowl,40.28,Main Course,False
+47dc4f12-7c6e-4a3e-a388-541399b64496,9abd0cd4-be34-44bd-9bce-ff2ec59e49e7,Yeah Delight,39.68,Side,True
+b0a1a8f7-0804-4130-9e40-309508eb21de,9abd0cd4-be34-44bd-9bce-ff2ec59e49e7,Training Special,15.2,Side,False
+b33563bc-af2c-42fc-88db-b18a18307af6,9abd0cd4-be34-44bd-9bce-ff2ec59e49e7,Mean Delight,41.44,Side,True
+f38b12ea-0e6d-4eb1-8cd9-13b1f56285b2,9abd0cd4-be34-44bd-9bce-ff2ec59e49e7,Build Special,44.45,Main Course,False
+f0c9d05d-37cd-44b2-b671-11371a75057c,9abd0cd4-be34-44bd-9bce-ff2ec59e49e7,Term Bowl,74.16,Beverage,False
+d6afcbb7-5632-4231-af22-b9d2fb120b81,41a01e4b-2a59-4f07-9738-a0eb351765e0,Attention Delight,5.52,Dessert,False
+16433c3f-7d36-478b-abf4-29d63d98037b,41a01e4b-2a59-4f07-9738-a0eb351765e0,Institution Combo,16.37,Main Course,True
+2ecc2333-752f-458a-bc50-b1bcbc03c717,41a01e4b-2a59-4f07-9738-a0eb351765e0,Million Bowl,21.09,Main Course,False
+e4a9db8e-5028-49c2-a3e4-499e8e1aca2d,41a01e4b-2a59-4f07-9738-a0eb351765e0,Back Bowl,9.89,Main Course,False
+d5a2019a-53ed-4e4b-9e9e-cdfd59b9a365,41a01e4b-2a59-4f07-9738-a0eb351765e0,Part Combo,7.56,Side,False
+ab741400-aec5-4cb3-af1f-45cc0d2a6c17,41a01e4b-2a59-4f07-9738-a0eb351765e0,Professional Delight,14.79,Main Course,False
+aba95adf-c6a4-4396-8e4f-d77d0d314891,41a01e4b-2a59-4f07-9738-a0eb351765e0,Rich Delight,18.86,Main Course,False
+10aec579-9e1b-4ed9-8426-76f342ea209d,41a01e4b-2a59-4f07-9738-a0eb351765e0,Argue Special,14.24,Dessert,False
+2cb6610d-252a-4b94-a3fa-6c64cbba630d,41a01e4b-2a59-4f07-9738-a0eb351765e0,Civil Plate,18.66,Main Course,False
+5f76e8f5-e3cd-4a11-850a-1a3efae2eefa,42d698de-10eb-434b-b823-cccfb6ab46c8,Church Plate,19.21,Side,False
+17e65d23-74b4-48fb-92cc-cd3af896afec,42d698de-10eb-434b-b823-cccfb6ab46c8,Talk Delight,5.0,Main Course,False
+ac3f0b86-f633-4a94-a5d7-f0dc6c8f654f,42d698de-10eb-434b-b823-cccfb6ab46c8,Order Combo,5.0,Appetizer,False
+ec7d4ac0-e758-42ea-a0e2-c555cfd74666,42d698de-10eb-434b-b823-cccfb6ab46c8,Fly Special,11.59,Appetizer,False
+90d5baf1-c37e-4867-8ba1-6509b1f1b2c4,42d698de-10eb-434b-b823-cccfb6ab46c8,Bed Delight,18.93,Main Course,False
+51665385-41bc-4f44-a92c-67b84ecca22e,42d698de-10eb-434b-b823-cccfb6ab46c8,Energy Plate,14.77,Main Course,False
+017e8659-ba3e-42c1-b990-55e2b08ce8bf,42d698de-10eb-434b-b823-cccfb6ab46c8,By Plate,8.57,Dessert,True
+75ff3603-bb54-4a66-b37a-2e28a82cbf3f,42d698de-10eb-434b-b823-cccfb6ab46c8,Open Bowl,14.75,Side,True
+1463d5b6-6dc0-4f9a-b108-9b2a5e395bf6,42d698de-10eb-434b-b823-cccfb6ab46c8,South Plate,5.0,Side,True
+075b5a9b-1ada-4a11-b38c-a1f316cb941d,44a20668-8f69-4d6b-8ea9-bdb936ed084c,Keep Bowl,31.02,Main Course,True
+15dea914-d0b4-4d9f-8f99-fb8452ddc505,44a20668-8f69-4d6b-8ea9-bdb936ed084c,Police Combo,28.68,Main Course,False
+c00fa239-354c-4af2-87ce-3bde89eaf832,44a20668-8f69-4d6b-8ea9-bdb936ed084c,Pick Bowl,40.01,Main Course,False
+c59a0a3f-6687-4a0e-8931-6faef09965b4,44a20668-8f69-4d6b-8ea9-bdb936ed084c,Street Plate,19.37,Main Course,False
+40bff3cd-830a-4cb5-b566-5f7868f9dca2,44a20668-8f69-4d6b-8ea9-bdb936ed084c,Present Delight,22.04,Appetizer,False
+792d916f-f0cd-4cb9-a5a9-33fb36a72661,e022c067-fc2d-4209-898c-68398e8e86f5,Draw Combo,49.32,Dessert,False
+5a34d15f-dce9-496d-be2b-f06dc1b89dbc,e022c067-fc2d-4209-898c-68398e8e86f5,Stand Plate,66.21,Main Course,False
+7e0aa285-73d2-4c0c-8ac0-62d486ab2806,e022c067-fc2d-4209-898c-68398e8e86f5,Necessary Combo,26.83,Side,False
+32fcdfb8-7dce-4d99-86f6-9d714f937c5e,e022c067-fc2d-4209-898c-68398e8e86f5,Husband Bowl,39.85,Main Course,False
+beadf9f1-c2a2-47ed-adf0-1c783bf104cd,e022c067-fc2d-4209-898c-68398e8e86f5,Little Combo,34.77,Side,False
+d512fcc2-7d03-442a-9e32-4707b379c73f,e022c067-fc2d-4209-898c-68398e8e86f5,When Delight,29.08,Beverage,False
+a31a97a3-08aa-4ab0-963c-bc09734665ba,e022c067-fc2d-4209-898c-68398e8e86f5,Level Plate,40.46,Main Course,False
+180f4508-94ac-4efb-a52a-d083c1f9d31e,f7613c51-110f-4aed-ad31-cc087ade5110,Finish Delight,5.0,Main Course,False
+17ecb232-80a5-466d-a0e0-6add07b02c2a,f7613c51-110f-4aed-ad31-cc087ade5110,Trade Special,5.84,Main Course,False
+0d201385-74d3-44ce-a35f-6bf840206431,f7613c51-110f-4aed-ad31-cc087ade5110,Per Plate,6.26,Main Course,False
+a0fa00cf-948f-4dac-ba5a-2f1974eb9d92,f7613c51-110f-4aed-ad31-cc087ade5110,Laugh Bowl,5.0,Main Course,False
+7a4effcd-91b6-4acd-8bd9-f2cee3b8ae39,f7613c51-110f-4aed-ad31-cc087ade5110,Focus Special,10.5,Appetizer,True
+1b21ee72-5cfd-45c1-a1d3-27d2fcdcea9a,f7613c51-110f-4aed-ad31-cc087ade5110,Outside Bowl,9.24,Main Course,False
+c4d31f92-c596-4150-b96f-edc8dea362d4,f7613c51-110f-4aed-ad31-cc087ade5110,Pressure Special,6.04,Main Course,False
+a29cdd47-3e9b-4308-a104-cb55d557ba37,f7613c51-110f-4aed-ad31-cc087ade5110,As Plate,10.17,Side,True
+7b91a963-1109-4876-84b6-e0da2bb137bf,bfad0e0f-cb22-4e53-b38e-e310e97462f4,Poor Combo,9.3,Appetizer,False
+7b6486ce-fe20-4560-b1f4-72bff729cf4f,bfad0e0f-cb22-4e53-b38e-e310e97462f4,Sister Combo,5.97,Dessert,False
+95b1fe95-d988-49da-9aa6-42dde79b352f,bfad0e0f-cb22-4e53-b38e-e310e97462f4,Bit Plate,5.15,Dessert,True
+30524f2a-f141-4896-8f46-26c4e9a09ac2,bfad0e0f-cb22-4e53-b38e-e310e97462f4,Yourself Bowl,5.0,Appetizer,False
+9fb76a2d-baac-4d66-8c98-48033975e2d6,bfad0e0f-cb22-4e53-b38e-e310e97462f4,Source Plate,11.16,Main Course,False
+c77d6789-eaca-4fc8-a1fb-9986e88f2962,bfad0e0f-cb22-4e53-b38e-e310e97462f4,Despite Special,5.0,Appetizer,False
+31386dd2-b169-4645-a590-cfaad6de94f0,bfad0e0f-cb22-4e53-b38e-e310e97462f4,Process Plate,5.0,Side,False
+978697f3-a414-424a-b1df-1fac323b08b4,bfad0e0f-cb22-4e53-b38e-e310e97462f4,Development Special,5.0,Main Course,False
+98fcc909-f662-4b14-aebf-b28edf0fd3a1,bfad0e0f-cb22-4e53-b38e-e310e97462f4,Everything Special,9.63,Beverage,False
+44b944b0-dfc9-4b02-98bc-403a41a8b325,bfad0e0f-cb22-4e53-b38e-e310e97462f4,Recent Bowl,10.64,Appetizer,False
+0f57b438-682d-42ab-a733-f79254494b0b,bfad0e0f-cb22-4e53-b38e-e310e97462f4,Beat Delight,10.28,Main Course,True
+69392f58-783f-4fd6-bdbf-bab7aa643d00,bfad0e0f-cb22-4e53-b38e-e310e97462f4,Close Delight,14.58,Main Course,True
+252ed787-0c20-43ad-ad23-b573fae5c520,bfad0e0f-cb22-4e53-b38e-e310e97462f4,Education Bowl,5.0,Appetizer,False
+a824dc31-7253-47dd-92b1-b948de2a4760,3423197e-149d-4ace-ad33-f2ff4b16a1c2,Consumer Special,22.1,Main Course,False
+2efe4e65-1783-44ad-8c84-5248df73215a,3423197e-149d-4ace-ad33-f2ff4b16a1c2,Old Plate,16.4,Main Course,False
+159c512e-e30a-4144-9a63-f1ba77d0eca1,3423197e-149d-4ace-ad33-f2ff4b16a1c2,Bad Combo,16.03,Main Course,False
+0ac8b2f0-e7ba-4578-bbcb-6d48738606c7,3423197e-149d-4ace-ad33-f2ff4b16a1c2,Close Special,9.54,Main Course,False
+c9aa88de-8fb5-4bd7-bda1-f0a358d04b2e,3423197e-149d-4ace-ad33-f2ff4b16a1c2,Able Bowl,10.42,Main Course,False
+36daf90f-689f-4088-927a-3f44ef077fa4,3423197e-149d-4ace-ad33-f2ff4b16a1c2,Issue Bowl,8.85,Appetizer,False
+75670b8e-836e-4dca-b9d9-6c70f65da865,3423197e-149d-4ace-ad33-f2ff4b16a1c2,Little Special,12.76,Appetizer,True
+d9816eed-95d2-4be1-ae3e-1958fb95fd2a,3423197e-149d-4ace-ad33-f2ff4b16a1c2,Risk Special,24.24,Side,True
+a3ef6a46-25ad-4710-b65f-15b692d54b4a,3423197e-149d-4ace-ad33-f2ff4b16a1c2,Phone Special,5.0,Main Course,False
+a038ceef-5d02-4e6c-a7d5-16a9ff6f38ac,3423197e-149d-4ace-ad33-f2ff4b16a1c2,Many Plate,17.05,Appetizer,False
+c25edf78-f5e1-4f6e-adc8-2e49de38003d,3423197e-149d-4ace-ad33-f2ff4b16a1c2,Film Delight,21.85,Appetizer,False
+95a40111-3fd5-4be9-ac18-40b4a5fefa93,623d9841-0c83-4cfe-8958-cc408bb95c24,Taco de Carne,49.3,Main Course,True
+b898d56e-f33d-4585-a278-624159fe5c87,623d9841-0c83-4cfe-8958-cc408bb95c24,Taco Supremo,66.84,Beverage,True
+e59b1262-231b-422b-859a-1737dfcbdeb2,623d9841-0c83-4cfe-8958-cc408bb95c24,Burrito con Queso,48.77,Side,False
+e449275b-94db-4dd2-b220-872fb88e4660,623d9841-0c83-4cfe-8958-cc408bb95c24,Taco de Pollo,59.25,Main Course,False
+d5b7dc3e-dfcb-44bd-a285-277844623795,623d9841-0c83-4cfe-8958-cc408bb95c24,Quesadilla con Queso,29.28,Main Course,True

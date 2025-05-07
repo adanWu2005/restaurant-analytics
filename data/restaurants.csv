@@ -1,0 +1,51 @@
+restaurant_id,name,cuisine,price_range,rating,address,area,latitude,longitude,is_dashpass,avg_prep_time_min
+3ea55e95-5c55-485d-867e-133f00da162e,"Rodriguez, Figueroa and Sanchez",Seafood,$,4.4,"18196 Anthony Forge, Uptown",Uptown,40.611605,-73.631764,True,38
+def18886-949c-450c-ab0d-ba36271be381,Wagner Inc,BBQ,$,3.6,"386 Shane Harbors, Downtown",Downtown,40.546848,-73.88367,True,27
+96db5cfe-8ad8-4367-8d48-386fdfde9780,Blake and Sons,Thai,$$$,4.3,"654 Jason Track, West Side",West Side,40.61022,-73.705367,False,10
+eca70dd7-a68c-42b1-879a-7e43904fcdc2,Garcia-James,Japanese,$$,3.4,"5940 Herrera Lane, Uptown",Uptown,40.607657,-73.618253,True,22
+feb9feaf-593f-4eaf-a5e3-25f6cb53293c,Arnold Ltd,Indian,$$,3.4,"593 Brandon Forks, Midtown",Midtown,40.903564,-73.635134,True,39
+07a93621-ccfd-40ac-b6ca-f41c3a784aa9,Galloway-Wyatt,Spanish,$,3.2,"64752 Kelly Skyway, East Side",East Side,40.942726,-73.819182,True,12
+69ef8a7c-4d12-4b57-b165-4a06225addab,Miles-Sutton,Chinese,$$,4.4,"92832 Gray Route, Downtown",Downtown,40.927659,-73.566758,True,24
+52fe068f-cc65-495f-b26b-79183a8771d3,"Hawkins, Cohen and Cameron",Seafood,$$$,2.9,"30564 Jason Port, Midtown",Midtown,40.604754,-73.866511,False,30
+7949e586-fe09-46d3-bc8d-0cc48997ec69,"Edwards, Rios and Foster",Mexican,$$,2.9,"724 John Points, Uptown",Uptown,40.581701,-73.810272,False,30
+98e3bdfb-c386-4e7e-8214-5978e46d503a,"Baker, Richards and Hurst",BBQ,$,3.3,"5328 Davis Causeway, Downtown",Downtown,40.614524,-73.98395,True,18
+c381bf47-ffe9-4b70-9f84-6cd190f496e7,Hernandez and Sons,Mexican,$,4.9,"691 James Mountain, Midtown",Midtown,40.606313,-73.750384,False,30
+c2303ef8-b86d-4b54-a114-d1762a47fc54,"King, Tran and Dunlap",Burger,$,2.8,"184 Rodriguez Mews, East Side",East Side,40.769489,-73.626493,True,28
+1161ca9f-0530-4daa-b88f-bdad43acc47d,Chavez Ltd,Spanish,$$,5.0,"482 Monica Hills, Uptown",Uptown,40.754763,-73.954545,True,13
+89449cb7-e158-414a-bfcf-55b66923bb9d,"Romero, Gonzalez and Brooks",American,$$,4.5,"88095 Smith Lake, West Side",West Side,40.798205,-73.807616,True,24
+1855f07c-c327-490c-84b8-b61eebc0a92c,Allen-Allen,Sushi,$,3.9,"117 Tiffany Place, Downtown",Downtown,40.840142,-73.942724,False,34
+339b212d-0335-449a-a374-8247a4710fef,Anderson Group,Vietnamese,$$$,3.4,"248 Brandt Plains, Midtown",Midtown,40.717383,-73.773138,False,38
+cbc01602-fd7f-4dc6-9791-4ba2ab5e2a12,"Vaughn, Marquez and Ross",Vietnamese,$$$$,4.4,"578 Martinez Fork, East Side",East Side,40.956314,-73.564741,True,30
+6567482a-5657-4783-9313-289db98d4383,Morgan PLC,Sushi,$$,2.9,"393 Chad Roads, Uptown",Uptown,40.76969,-73.610687,True,10
+3b86dca9-a3f6-4a52-b033-69636b71782f,Perez Inc,Vegan,$$,2.5,"1834 Lewis Curve, Midtown",Midtown,40.939361,-73.584167,True,11
+ebe1a30e-a1ab-43cf-a384-e9d31e4e62e9,"Walls, Duncan and Kennedy",Mediterranean,$$$,4.9,"6311 Gomez Loop, Downtown",Downtown,40.865954,-73.591988,False,27
+01b7f696-29e2-4e7f-9a95-ede2605afd62,Shields-Brown,American,$,3.7,"106 Mcbride Coves, East Side",East Side,40.582563,-73.736163,True,40
+42287ad2-da2f-46da-b0e3-d56db981db62,Lee PLC,Thai,$$$$,4.4,"2624 Wright Club, Uptown",Uptown,40.856474,-73.800504,True,21
+a34624c6-3919-474b-a09c-db43228d6e9a,Morton-Chase,Burger,$$$,3.6,"08013 Richard Orchard, Uptown",Uptown,40.612349,-73.830957,True,17
+d4cff1ca-42df-4a86-9062-136e00f11750,Hancock Inc,Vegetarian,$,2.7,"60647 Henderson Street, Downtown",Downtown,40.614471,-73.54729,False,12
+c4429a43-1837-4207-8470-63c95b9b1b21,"Stanley, Tucker and Lee",Sushi,$,4.2,"09805 Brendan Neck, Uptown",Uptown,40.769617,-73.638324,False,28
+7014848d-ee43-49c9-a00a-9a531d609cf5,"Calhoun, Schmidt and Brown",Pizza,$,3.7,"121 Emma Freeway, West Side",West Side,40.595205,-73.951535,True,23
+154d6c49-f32b-4d55-af56-2917c59db3ff,Wilson-Zamora,Middle Eastern,$$,4.3,"99091 Sandoval Port, Downtown",Downtown,40.530306,-73.635893,False,13
+b329a2af-b049-46f3-9804-353d805bec89,"Stewart, Green and Santiago",Mediterranean,$,3.8,"3462 Bryant Terrace, Uptown",Uptown,40.710941,-73.860727,True,39
+a740faea-2d85-43f9-9252-744ced447767,Smith PLC,Mexican,$$,4.7,"118 William Curve, East Side",East Side,40.548954,-73.673928,True,10
+4739a2fd-3e9c-4f68-8fed-96370dade7d3,Ibarra-Suarez,Mexican,$$$$,4.6,"4278 Carr Valley, Uptown",Uptown,40.703207,-73.759321,False,38
+4fea8353-ed61-4e1f-8946-04f7b87ab249,"Rice, Contreras and Spencer",Chinese,$,2.5,"124 Pamela Summit, West Side",West Side,40.632602,-73.607965,True,23
+68fa082a-2602-4d81-a366-54ed5e638185,"Moore, Campbell and Clark",BBQ,$$,3.7,"3487 Whitehead Vista, Uptown",Uptown,40.648354,-73.515645,True,27
+547a2699-78dd-44fe-8b7e-51bd349c71b2,Davis Group,Chinese,$$$,2.6,"0052 Martin Mills, East Side",East Side,40.738394,-73.540306,True,11
+54775fe0-d6c4-480f-abc8-9679fb94dfa0,"Thornton, Hoffman and Rodriguez",Sushi,$,3.0,"280 Aguilar Drive, East Side",East Side,40.53398,-73.56909,True,40
+cd03d8e9-b448-4cdf-a391-551add78c13f,Anderson-Parker,Vegetarian,$,4.0,"53315 Dickson Summit, East Side",East Side,40.540992,-73.671313,True,20
+209519ca-68e4-408c-adec-2269127a180a,Frost and Sons,Vietnamese,$,4.3,"26025 Pham Way, Uptown",Uptown,40.632807,-73.934561,True,24
+7a69b43e-40d3-473f-aa9c-cf21eed26396,"Cochran, Adams and Cobb",Greek,$$$$,4.8,"60733 Bailey View, Downtown",Downtown,40.729143,-73.500773,False,12
+8a9e374d-f43e-44b2-bd9f-7de626ce6211,Walker Ltd,BBQ,$,3.2,"65414 May Locks, Midtown",Midtown,40.940432,-73.560365,True,15
+e65b7ee9-1f6d-4765-9646-e387215680af,"Zavala, Herrera and Crosby",Burger,$$$,4.3,"42940 Candace Key, East Side",East Side,40.991927,-73.59645,True,31
+e7511a09-d43c-4b5f-9058-3403c6a2f57e,"Hartman, Graham and Joyce",BBQ,$,4.2,"69340 Smith Valley, Uptown",Uptown,40.632233,-73.555144,False,14
+ab7fd423-ee82-4286-949c-bfc28daac20c,"Mcdaniel, Bentley and Mclaughlin",Vietnamese,$,3.0,"56159 Alvarado Crossing, Midtown",Midtown,40.601799,-73.682881,True,25
+9abd0cd4-be34-44bd-9bce-ff2ec59e49e7,"Mccullough, Hunter and Estrada",Vietnamese,$$$$,4.6,"6482 Robert Light, Downtown",Downtown,40.817142,-73.585326,True,20
+41a01e4b-2a59-4f07-9738-a0eb351765e0,"Adkins, Thompson and Carroll",American,$$,3.2,"8044 Russell Prairie, West Side",West Side,40.77584,-73.786157,True,12
+42d698de-10eb-434b-b823-cccfb6ab46c8,"Pena, Marshall and Ramos",American,$$,4.6,"87214 Davis Terrace, East Side",East Side,40.776263,-73.785107,True,21
+44a20668-8f69-4d6b-8ea9-bdb936ed084c,Chambers and Sons,Chinese,$$$,3.0,"20037 Stanley Roads, Uptown",Uptown,40.833467,-73.823161,True,37
+e022c067-fc2d-4209-898c-68398e8e86f5,"Lee, Horton and Snyder",Middle Eastern,$$$$,4.4,"20163 Linda Square, Uptown",Uptown,40.932303,-73.511897,False,38
+f7613c51-110f-4aed-ad31-cc087ade5110,"Marshall, Grant and Lowery",Middle Eastern,$,4.3,"72788 Dodson Mills, Midtown",Midtown,40.891193,-73.794143,True,33
+bfad0e0f-cb22-4e53-b38e-e310e97462f4,"Briggs, Mcclain and Simmons",Mediterranean,$,4.5,"727 Green Gateway, Downtown",Downtown,40.691271,-73.980638,True,16
+3423197e-149d-4ace-ad33-f2ff4b16a1c2,"Ramirez, Strickland and Washington",Burger,$$,4.6,"47143 Rogers Plains, Uptown",Uptown,40.611462,-73.669983,True,18
+623d9841-0c83-4cfe-8958-cc408bb95c24,Taylor and Sons,Mexican,$$$$,3.2,"2316 Rivera Mountain, East Side",East Side,40.699839,-73.509425,True,40
