@@ -78,44 +78,6 @@ streamlit run streamlit_dashboard.py
 Alternatively, run the entire pipeline with one command:
 python run_project.py
 
-### Cloud Deployment (GCP)
-
-1. **Set up GCP environment**
-
-Create a GCP project
-gcloud projects create Restaurant-analytics-project
-gcloud config set project Restaurant-analytics-project
-Enable required APIs
-gcloud services enable compute.googleapis.com storage.googleapis.com bigquery.googleapis.com
-Create a Cloud Storage bucket
-gsutil mb -l us-central1 gs://Restaurant-analytics-project/
-
-2. **Upload data to Cloud Storage**
-gsutil -m cp data/*.csv gs://Restaurant-analytics-project/
-
-3. **Set up Compute Engine and Mage AI**
-Create VM
-gcloud compute instances create mage-data-pipeline 
---zone=us-central1-a 
---machine-type=e2-standard-4 
---image-family=ubuntu-2004-lts 
---image-project=ubuntu-os-cloud
-SSH into VM and install Mage
-gcloud compute ssh mage-data-pipeline
-
-4. **Install Mage AI and set up the pipeline**
-sudo apt-get update
-sudo pip3 install mage-ai
-mage start Restaurant_pipeline
-
-5. **Create BigQuery dataset and run the analytics query**
-Create dataset
-bq mk Restaurant_data
-Run analytics query
-bq query --use_legacy_sql=false < sql/analytics_query.sql
-
-6. **Set up Looker Studio dashboard** by connecting to the BigQuery table
-
 ## Key Analytics
 
 This project enables analysis of:
@@ -151,7 +113,5 @@ This project enables analysis of:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
